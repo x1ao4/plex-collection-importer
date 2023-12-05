@@ -1,0 +1,50 @@
+1 The Shawshank Redemption (1994) {imdb-tt0111161}
+2 The Godfather (1972) {imdb-tt0068646}
+3 Game of Thrones (2011) {imdb-tt0944947}
+4 Schindler's List (1993) {imdb-tt0108052}
+5 The Lord of the Rings: The Fellowship of the Ring (2001) {imdb-tt0120737}
+6 Fight Club (1999) {imdb-tt0137523}
+7 The Green Mile (1999) {imdb-tt0120689}
+8 Oppenheimer (I) (2023) {imdb-tt15398776}
+9 The Silence of the Lambs (1991) {imdb-tt0102926}
+10 Psycho (1960) {imdb-tt0054215}
+11 The Prestige (2006) {imdb-tt0482571}
+12 The Shining (1980) {imdb-tt0081505}
+13 Roots (1977) {imdb-tt0075572}
+14 The Handmaid's Tale (2017) {imdb-tt5834204}
+15 2001: A Space Odyssey (1968) {imdb-tt0062622}
+16 To Kill a Mockingbird (1962) {imdb-tt0056592}
+17 A Clockwork Orange (1971) {imdb-tt0066921}
+18 Jurassic Park (1993) {imdb-tt0107290}
+19 L.A. Confidential (1997) {imdb-tt0119488}
+20 Gone with the Wind (1939) {imdb-tt0031381}
+21 No Country for Old Men (2007) {imdb-tt0477348}
+22 The Grapes of Wrath (1940) {imdb-tt0032551}
+23 Jaws (1975) {imdb-tt0073195}
+24 Blade Runner (1982) {imdb-tt0083658}
+25 Gone Girl (2014) {imdb-tt2267998}
+26 Trainspotting (1996) {imdb-tt0117951}
+27 The Exorcist (1973) {imdb-tt0070047}
+28 Dead Poets Society (1989) {imdb-tt0097165}
+29 A Christmas Carol (1951) {imdb-tt0044008}
+30 The Wizard of Oz (1939) {imdb-tt0032138}
+31 The Heiress (1949) {imdb-tt0041452}
+32 The Help (2011) {imdb-tt1454029}
+33 Persuasion (1995 TV Movie) {imdb-tt26933001}
+34 Dune (2021) {imdb-tt1160419}
+35 Papillon (1973) {imdb-tt0070511}
+36 The Imitation Game (2014) {imdb-tt2084970}
+37 Touch of Evil (1958) {imdb-tt0052311}
+38 Good Omens (2019) {imdb-tt1869454}
+39 The Princess Bride (1987) {imdb-tt0093779}
+40 The Martian (2015) {imdb-tt3659388}
+41 Arrival (II) (2016) {imdb-tt2543164}
+42 The Perks of Being a Wallflower (2012) {imdb-tt1659337}
+43 The Thorn Birds (1983) {imdb-tt0085101}
+44 Life of Pi (2012) {imdb-tt0454876}
+45 Little Women (2019) {imdb-tt3281548}
+46 Of Mice and Men (1939) {imdb-tt0031742}
+47 The Bourne Identity (2002) {imdb-tt0258463}
+48 The Girl with the Dragon Tattoo (2011) {imdb-tt1568346}
+49 The Irishman (2019) {imdb-tt1302006}
+50 Misery (1990) {imdb-tt0100157}

@@ -1,0 +1,1000 @@
+1 Citizen Kane (1941) {tmdb-15}
+2 Vertigo (1958) {tmdb-426}
+3 2001: A Space Odyssey (1968) {tmdb-62}
+4 Tokyo Story (1953) {tmdb-18148}
+5 The Rules of the Game (1939) {tmdb-776}
+6 The Godfather (1972) {tmdb-238}
+7 8½ (1963) {tmdb-422}
+8 Sunrise (1927) {tmdb-631}
+9 The Searchers (1956) {tmdb-3114}
+10 Seven Samurai (1954) {tmdb-346}
+11 Singin' in the Rain (1952) {tmdb-872}
+12 1080 Bruxelles 23 Quai du Commerce Jeanne Dielman (1975) {tmdb-44012}
+13 Apocalypse Now (1979) {tmdb-28}
+14 Bicycle Thieves (1948) {tmdb-5156}
+15 Taxi Driver (1976) {tmdb-103}
+16 Persona (1966) {tmdb-797}
+17 The Passion of Joan of Arc (1928) {tmdb-780}
+18 Breathless (1960) {tmdb-269}
+19 In the Mood for Love (2000) {tmdb-843}
+20 Battleship Potemkin (1925) {tmdb-643}
+21 L'Atalante (1934) {tmdb-43904}
+22 The Man with a Movie Camera (1929) {tmdb-26317}
+23 Mirror (1975) {tmdb-1396}
+24 Rashomon (1950) {tmdb-548}
+25 City Lights (1931) {tmdb-901}
+26 Psycho (1960) {tmdb-539}
+27 The 400 Blows (1959) {tmdb-147}
+28 Andrei Rublev (1966) {tmdb-895}
+29 Au hasard Balthazar (1966) {tmdb-20108}
+30 Some Like it Hot (1959) {tmdb-239}
+31 The Godfather Part II (1974) {tmdb-240}
+32 La Dolce vita (1960) {tmdb-439}
+33 Mulholland Dr. (2001) {tmdb-1018}
+34 Ordet (1955) {tmdb-48035}
+35 Raging Bull (1980) {tmdb-1578}
+36 The Night of the Hunter (1955) {tmdb-3112}
+37 L'Avventura (1960) {tmdb-5165}
+38 Rear Window (1954) {tmdb-567}
+39 Playtime (1967) {tmdb-10227}
+40 Sunset Blvd. (1950) {tmdb-599}
+41 Touch of Evil (1958) {tmdb-1480}
+42 Casablanca (1942) {tmdb-289}
+43 Pather Panchali (1955) {tmdb-5801}
+44 Contempt (1963) {tmdb-266}
+45 Barry Lyndon (1975) {tmdb-3175}
+46 Stalker (1979) {tmdb-1398}
+47 Blade Runner (1982) {tmdb-78}
+48 Close-Up (1990) {tmdb-30017}
+49 Lawrence of Arabia (1962) {tmdb-947}
+50 The General (1926) {tmdb-961}
+51 Beau travail (1999) {tmdb-14626}
+52 Modern Times (1936) {tmdb-3082}
+53 M (1931) {tmdb-832}
+54 The Third Man (1949) {tmdb-1092}
+55 Late Spring (1949) {tmdb-20530}
+56 North by Northwest (1959) {tmdb-213}
+57 Ugetsu monogatari (1953) {tmdb-14696}
+58 The Battle of Algiers (1966) {tmdb-17295}
+59 The Apartment (1960) {tmdb-284}
+60 La Grande illusion (1937) {tmdb-777}
+61 Wild Strawberries (1957) {tmdb-614}
+62 Fanny and Alexander (1982) {tmdb-5961}
+63 Rio Bravo (1959) {tmdb-301}
+64 GoodFellas (1990) {tmdb-769}
+65 Shoah (1985) {tmdb-42044}
+66 Pierrot le fou (1965) {tmdb-2786}
+67 Journey to Italy (1954) {tmdb-2748}
+68 Metropolis (1927) {tmdb-19}
+69 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) {tmdb-935}
+70 Once Upon a Time in the West (1968) {tmdb-335}
+71 Chinatown (1974) {tmdb-829}
+72 La Strada (1954) {tmdb-405}
+73 Les Enfants du paradis (1945) {tmdb-2457}
+74 Do the Right Thing (1989) {tmdb-925}
+75 The Leopard (1963) {tmdb-1040}
+76 Amarcord (1973) {tmdb-7857}
+77 A Woman Under the Influence (1974) {tmdb-29845}
+78 A Man Escaped (1956) {tmdb-15244}
+79 The Seventh Seal (1957) {tmdb-490}
+80 Pulp Fiction (1994) {tmdb-680}
+81 The Wild Bunch (1969) {tmdb-576}
+82 It's a Wonderful Life (1946) {tmdb-1585}
+83 Sansho the Bailiff (1954) {tmdb-20532}
+84 The Conformist (1970) {tmdb-8416}
+85 The Magnificent Ambersons (1942) {tmdb-965}
+86 Viridiana (1961) {tmdb-4497}
+87 Blue Velvet (1986) {tmdb-793}
+88 Pickpocket (1959) {tmdb-690}
+89 Nashville (1975) {tmdb-3121}
+90 The Shining (1980) {tmdb-694}
+91 Gertrud (1964) {tmdb-34181}
+92 The Gold Rush (1925) {tmdb-962}
+93 The Man Who Shot Liberty Valance (1962) {tmdb-11697}
+94 Jaws (1975) {tmdb-578}
+95 La Jetée (1962) {tmdb-662}
+96 Jules et Jim (1962) {tmdb-1628}
+97 Cléo from 5 to 7 (1962) {tmdb-499}
+98 Sans soleil (1983) {tmdb-1563}
+99 Meshes of the Afternoon (1943) {tmdb-27040}
+100 To Be or Not to Be (1942) {tmdb-198}
+101 Madame de... (1953) {tmdb-27030}
+102 Sátántangó (1994) {tmdb-31414}
+103 Sherlock Jr. (1924) {tmdb-992}
+104 A Clockwork Orange (1971) {tmdb-185}
+105 Fear Eats the Soul (1974) {tmdb-216}
+106 Last Year at Marienbad (1961) {tmdb-4024}
+107 The Mother and the Whore (1973) {tmdb-48693}
+108 the Wrath of God Aguirre (1972) {tmdb-2000}
+109 Ikiru (1952) {tmdb-3782}
+110 A Brighter Summer Day (1991) {tmdb-15804}
+111 Annie Hall (1977) {tmdb-703}
+112 Greed (1924) {tmdb-1405}
+113 The Spirit of the Beehive (1973) {tmdb-4495}
+114 Once Upon a Time in America (1984) {tmdb-311}
+115 Come and See (1985) {tmdb-25237}
+116 The Piano (1993) {tmdb-713}
+117 Hiroshima mon amour (1959) {tmdb-5544}
+118 Yi Yi (2000) {tmdb-25538}
+119 The Wizard of Oz (1939) {tmdb-630}
+120 The Red Shoes (1948) {tmdb-19542}
+121 Intolerance (1916) {tmdb-3059}
+122 Don't Look Now (1973) {tmdb-931}
+123 Blow-Up (1966) {tmdb-1052}
+124 Bringing Up Baby (1938) {tmdb-900}
+125 L'Eclisse (1962) {tmdb-21135}
+126 A Matter of Life and Death (1946) {tmdb-28162}
+127 Letter from an Unknown Woman (1948) {tmdb-946}
+128 A Day in the Country (1936) {tmdb-43878}
+129 Vivre sa vie (1962) {tmdb-1626}
+130 Notorious (1946) {tmdb-303}
+131 Imitation of Life (1959) {tmdb-34148}
+132 Alien (1979) {tmdb-348}
+133 Histoire(s) du cinéma (1988) {imdb-tt6677224}
+134 All About Eve (1950) {tmdb-705}
+135 My Darling Clementine (1946) {tmdb-3088}
+136 The Exterminating Angel (1962) {tmdb-29264}
+137 The Gospel According to St. Matthew (1964) {imdb-tt0058715}
+138 Los Olvidados (1950) {tmdb-800}
+139 His Girl Friday (1940) {tmdb-3085}
+140 Spirited Away (2001) {tmdb-129}
+141 Daisies (1966) {tmdb-46919}
+142 Killer of Sheep (1977) {tmdb-27432}
+143 Céline and Julie Go Boating (1974) {tmdb-27019}
+144 Un Chien andalou (1928) {tmdb-626}
+145 Gone with the Wind (1939) {tmdb-770}
+146 Nosferatu (1922) {tmdb-653}
+147 E.T. The Extra-Terrestrial (1982) {tmdb-601}
+148 Open City Rome (1945) {tmdb-307}
+149 The Umbrellas of Cherbourg (1964) {tmdb-5967}
+150 Trouble in Paradise (1932) {tmdb-195}
+151 The Conversation (1974) {tmdb-592}
+152 L'Argent (1983) {tmdb-42112}
+153 The the Bad and the Ugly Good (1966) {tmdb-429}
+154 Days of Heaven (1978) {tmdb-16642}
+155 One Flew Over the Cuckoo's Nest (1975) {tmdb-510}
+156 My Neighbour Totoro (1988) {tmdb-8392}
+157 Wanda (1970) {tmdb-80560}
+158 Manhattan (1979) {tmdb-696}
+159 Chungking Express (1994) {tmdb-11104}
+160 Cries and Whispers (1972) {tmdb-10238}
+161 L'Âge d'or (1930) {tmdb-5729}
+162 Star Wars (1977) {tmdb-11}
+163 The Passenger (1975) {tmdb-9652}
+164 Tropical Malady (2004) {tmdb-11534}
+165 Badlands (1973) {tmdb-3133}
+166 The Deer Hunter (1978) {tmdb-11778}
+167 There Will Be Blood (2007) {tmdb-7345}
+168 Double Indemnity (1944) {tmdb-996}
+169 Touki Bouki (1973) {tmdb-77771}
+170 Dekalog (1989) {tmdb-118667}
+171 Stagecoach (1939) {tmdb-995}
+172 Rosemary's Baby (1968) {tmdb-805}
+173 The Texas Chainsaw Massacre (1974) {tmdb-30497}
+174 The Colour of Pomegranates (1969) {tmdb-26302}
+175 Earth (1930) {tmdb-46594}
+176 Duck Soup (1933) {tmdb-3063}
+177 Brief Encounter (1945) {tmdb-851}
+178 The Discreet Charm of the Bourgeoisie (1972) {tmdb-4593}
+179 The River (1951) {tmdb-45218}
+180 The Birds (1963) {tmdb-571}
+181 Only Angels Have Wings (1939) {tmdb-43832}
+182 Mouchette (1967) {tmdb-1561}
+183 Ran (1985) {tmdb-11645}
+184 Spring in a Small Town (1948) {tmdb-21058}
+185 A City of Sadness (1989) {tmdb-49982}
+186 Napoléon (1927) {tmdb-42536}
+187 Portrait of a Lady on Fire (2019) {tmdb-531428}
+188 Chimes at Midnight (1965) {tmdb-986}
+189 Johnny Guitar (1954) {tmdb-26596}
+190 Vampyr (1932) {tmdb-779}
+191 Black Narcissus (1947) {tmdb-16391}
+192 La Notte (1961) {tmdb-41050}
+193 Out of the Past (1947) {tmdb-678}
+194 Rocco and His Brothers (1960) {tmdb-8422}
+195 Paisan (1946) {tmdb-8429}
+196 The Tree of Life (2011) {tmdb-8967}
+197 Nights of Cabiria (1957) {tmdb-19426}
+198 or the 120 Days of Sodom Salò (1975) {tmdb-5336}
+199 The Lady Eve (1941) {tmdb-3086}
+200 The Last Laugh (1924) {tmdb-5991}
+201 Texas Paris (1984) {tmdb-655}
+202 On the Waterfront (1954) {tmdb-654}
+203 Death in Venice (1971) {tmdb-6619}
+204 Vagabond (1985) {tmdb-44018}
+205 News from Home (1976) {tmdb-86814}
+206 King Kong (1933) {tmdb-244}
+207 The Life and Death of Colonel Blimp (1943) {tmdb-25037}
+208 Raiders of the Lost Ark (1981) {tmdb-85}
+209 Wavelength (1967) {tmdb-88421}
+210 The Great Dictator (1940) {tmdb-914}
+211 The Gleaners & I (2000) {tmdb-44379}
+212 Solaris (1972) {tmdb-593}
+213 Wings of Desire (1987) {tmdb-144}
+214 Zero for Conduct (1933) {tmdb-44494}
+215 Umberto D. (1952) {tmdb-833}
+216 Moonlight (2016) {tmdb-376867}
+217 The Thing (1982) {tmdb-1091}
+218 Breaking the Waves (1996) {tmdb-145}
+219 Le Samouraï (1967) {tmdb-5511}
+220 The Life of Oharu (1952) {tmdb-43364}
+221 Close Encounters of the Third Kind (1977) {tmdb-840}
+222 The Grapes of Wrath (1940) {tmdb-596}
+223 Kes (1969) {tmdb-13384}
+224 Magnolia (1999) {tmdb-334}
+225 White Devil Black God (1964) {tmdb-67612}
+226 An Autumn Afternoon (1962) {tmdb-50759}
+227 The Travelling Players (1975) {tmdb-689}
+228 The Quiet Man (1952) {tmdb-3109}
+229 Year Zero Germany (1948) {tmdb-8016}
+230 Love Streams (1984) {tmdb-52109}
+231 The Matrix (1999) {tmdb-603}
+232 Red Desert (1964) {tmdb-26638}
+233 Ashes and Diamonds (1958) {tmdb-5055}
+234 The Crowd (1928) {tmdb-3061}
+235 Where is the Friend's House? (1987) {tmdb-49964}
+236 Brazil (1985) {tmdb-68}
+237 Sullivan's Travels (1941) {tmdb-16305}
+238 Eraserhead (1977) {tmdb-985}
+239 McCabe & Mrs. Miller (1971) {tmdb-29005}
+240 Part 2 Ivan the Terrible (1946) {tmdb-9797}
+241 The House is Black (1963) {tmdb-44065}
+242 Memories of Underdevelopment (1968) {tmdb-47576}
+243 The Band Wagon (1953) {tmdb-29376}
+244 The Thin Red Line (1998) {tmdb-8741}
+245 Part 1 Ivan the Terrible (1944) {tmdb-9797}
+246 Performance (1970) {tmdb-26606}
+247 The Best Years of Our Lives (1946) {tmdb-887}
+248 Parasite (2019) {tmdb-496243}
+249 Meet Me in St. Louis (1944) {tmdb-909}
+250 Daughters of the Dust (1991) {tmdb-68427}
+251 Caché (2005) {tmdb-445}
+252 In a Lonely Place (1950) {tmdb-17057}
+253 Red River (1948) {tmdb-3089}
+254 Tabu (1931) {tmdb-977}
+255 Belle de jour (1967) {tmdb-649}
+256 Diary of a Country Priest (1951) {tmdb-43376}
+257 Eternal Sunshine of the Spotless Mind (2004) {tmdb-38}
+258 Kind Hearts and Coronets (1949) {tmdb-11898}
+259 Schindler's List (1993) {tmdb-424}
+260 Three Colours: Blue (1993) {tmdb-108}
+261 The Big Lebowski (1998) {tmdb-115}
+262 The Cabinet of Dr. Caligari (1920) {tmdb-234}
+263 The Story of the Last Chrysanthemums (1939) {tmdb-46069}
+264 Heat (1995) {tmdb-949}
+265 Uncle Boonmee Who Can Recall His Past Lives (2010) {tmdb-38368}
+266 Black Girl (1966) {tmdb-95597}
+267 The Graduate (1967) {tmdb-37247}
+268 The Treasure of the Sierra Madre (1948) {tmdb-3090}
+269 The Shop Around the Corner (1940) {tmdb-20334}
+270 Night and Fog (1955) {tmdb-803}
+271 Fargo (1996) {tmdb-275}
+272 F for Fake (1973) {tmdb-43003}
+273 The Green Ray (1986) {tmdb-54898}
+274 Throne of Blood (1957) {tmdb-3777}
+275 Day of Wrath (1943) {tmdb-41391}
+276 Three Colours: Red (1994) {tmdb-110}
+277 All That Heaven Allows (1955) {tmdb-43316}
+278 The Ascent (1976) {imdb-tt0075404}
+279 Dragon Inn Goodbye (2003) {tmdb-56616}
+280 Pandora's Box (1929) {tmdb-905}
+281 Eyes Wide Shut (1999) {tmdb-345}
+282 Groundhog Day (1993) {tmdb-137}
+283 Sweet Smell of Success (1957) {tmdb-976}
+284 2 or 3 Things I Know About Her (1967) {tmdb-8074}
+285 The Exorcist (1973) {tmdb-9552}
+286 Cinema Paradiso (1988) {tmdb-11216}
+287 Taste of Cherry (1997) {tmdb-30020}
+288 My Night at Maud's (1969) {tmdb-48831}
+289 India Song (1975) {tmdb-85927}
+290 All About My Mother (1999) {tmdb-99}
+291 La Ciénaga (2001) {tmdb-58429}
+292 Paths of Glory (1957) {tmdb-975}
+293 The Big Sleep (1946) {tmdb-910}
+294 The Sacrifice (1986) {tmdb-24657}
+295 Mean Streets (1973) {tmdb-203}
+296 Floating Clouds (1955) {tmdb-77285}
+297 The Music Room (1958) {tmdb-822}
+298 Back to the Future (1985) {tmdb-105}
+299 Unforgiven (1992) {tmdb-33}
+300 Terra em Transe (1967) {tmdb-67062}
+301 Still Lives Distant Voices (1988) {tmdb-41799}
+302 Army of Shadows (1969) {tmdb-15383}
+303 El Verdugo (1963) {tmdb-4498}
+304 Nanook of the North (1922) {tmdb-669}
+305 Happy Together (1997) {tmdb-18329}
+306 Melancholia (2011) {tmdb-62215}
+307 Charulata (1964) {tmdb-35790}
+308 Faces (1968) {tmdb-753}
+309 The World of Apu (1959) {tmdb-896}
+310 Mr. Hulot's Holiday (1953) {tmdb-778}
+311 The Maltese Falcon (1941) {tmdb-963}
+312 Freaks (1932) {tmdb-136}
+313 Kings of the Road (1976) {tmdb-10834}
+314 A Separation (2011) {tmdb-60243}
+315 Videodrome (1983) {tmdb-837}
+316 I Am Cuba (1964) {tmdb-32015}
+317 Lola Montès (1955) {tmdb-35987}
+318 Berlin Alexanderplatz (1980) {tmdb-477122}
+319 Monsieur Verdoux (1947) {tmdb-30588}
+320 The Time to Live and the Time to Die (1985) {tmdb-45999}
+321 Werckmeister Harmonies (2000) {tmdb-23160}
+322 A Canterbury Tale (1944) {tmdb-15696}
+323 La Belle et la bête (1946) {tmdb-648}
+324 Underground (1995) {tmdb-11902}
+325 Broken Blossoms (1919) {tmdb-899}
+326 Husbands (1970) {tmdb-52105}
+327 The Kid (1921) {tmdb-10098}
+328 The Empire Strikes Back (1980) {tmdb-1891}
+329 Pyaasa (1957) {tmdb-41053}
+330 The Philadelphia Story (1940) {tmdb-981}
+331 City of God (2002) {tmdb-598}
+332 The Young Girls of Rochefort (1967) {tmdb-2433}
+333 In the Realm of the Senses (1976) {tmdb-5879}
+334 The Puppetmaster (1993) {tmdb-96712}
+335 The Wages of Fear (1953) {tmdb-204}
+336 The Tree of Wooden Clogs (1978) {tmdb-31542}
+337 Cabaret (1972) {tmdb-10784}
+338 Bonnie and Clyde (1967) {tmdb-475}
+339 El (1953) {tmdb-43344}
+340 All That Jazz (1979) {tmdb-16858}
+341 Tie Xi Qu: West of the Tracks (2003) {tmdb-86282}
+342 Muriel (1963) {tmdb-54563}
+343 The Cloud-Capped Star (1960) {tmdb-59239}
+344 A Touch of Zen (1971) {tmdb-44154}
+345 Weekend (1967) {tmdb-651058}
+346 Kiss Me Deadly (1955) {tmdb-18030}
+347 West Side Story (1961) {tmdb-1725}
+348 Out 1 (1971) {tmdb-94528}
+349 The Quince Tree Sun (1992) {tmdb-94706}
+350 Midnight Cowboy (1969) {tmdb-3116}
+351 The Last Picture Show (1971) {tmdb-25188}
+352 Some Came Running (1958) {tmdb-38724}
+353 Dog Day Afternoon (1975) {tmdb-968}
+354 Written on the Wind (1956) {tmdb-69605}
+355 Marnie (1964) {tmdb-506}
+356 Yojimbo (1961) {tmdb-11878}
+357 The Double Life of Véronique (1991) {tmdb-1600}
+358 Amadeus (1984) {tmdb-279}
+359 Night of the Living Dead (1968) {tmdb-10331}
+360 High and Low (1963) {tmdb-12493}
+361 Through the Olive Trees (1994) {tmdb-47104}
+362 Make Way for Tomorrow (1937) {tmdb-41059}
+363 Mad Max: Fury Road (2015) {tmdb-76341}
+364 How Green Was My Valley (1941) {tmdb-43266}
+365 Heaven's Gate (1980) {tmdb-10935}
+366 Last Tango in Paris (1972) {tmdb-1643}
+367 The Cranes Are Flying (1957) {tmdb-38360}
+368 Get Out (2017) {tmdb-419430}
+369 The King of Comedy (1983) {tmdb-262}
+370 Peeping Tom (1960) {tmdb-11167}
+371 An Affair to Remember (1957) {tmdb-8356}
+372 Lost Highway (1997) {tmdb-638}
+373 The White Ribbon (2009) {tmdb-37903}
+374 Fitzcarraldo (1982) {tmdb-9343}
+375 Tristana (1970) {tmdb-35838}
+376 Teorema (1968) {tmdb-5335}
+377 The Killing of a Chinese Bookie (1976) {tmdb-32040}
+378 Stromboli (1950) {tmdb-4173}
+379 The Elephant Man (1980) {tmdb-1955}
+380 The Turin Horse (2011) {tmdb-81401}
+381 Nostalghia (1983) {tmdb-1394}
+382 Orlando (1992) {tmdb-9300}
+383 Harold and Maude (1971) {tmdb-343}
+384 Mon oncle (1958) {tmdb-427}
+385 Two-Lane Blacktop (1971) {tmdb-27236}
+386 The Hour of the Furnaces (1968) {tmdb-89681}
+387 I Know Where I'm Going! (1945) {tmdb-56137}
+388 In a Year with 13 Moons (1978) {tmdb-42206}
+389 The Birth of a Nation (1915) {tmdb-618}
+390 It Happened One Night (1934) {tmdb-3078}
+391 Limite (1931) {tmdb-8353}
+392 The Flowers of St. Francis (1950) {tmdb-56518}
+393 Crimes and Misdemeanors (1989) {tmdb-11562}
+394 The Tenant (1976) {tmdb-11482}
+395 Aliens (1986) {tmdb-679}
+396 Miracle in Milan (1951) {tmdb-43379}
+397 But... I Was Born (1932) {tmdb-28268}
+398 Stranger Than Paradise (1984) {tmdb-469}
+399 Orpheus (1950) {tmdb-4558}
+400 1900 (1976) {tmdb-3870}
+401 This is Spinal Tap (1984) {tmdb-11031}
+402 Dawn of the Dead (1978) {tmdb-923}
+403 The Silence of the Lambs (1991) {tmdb-274}
+404 Salvatore Giuliano (1962) {tmdb-27523}
+405 Eyes Without a Face (1960) {tmdb-31417}
+406 Day for Night (1973) {tmdb-1675}
+407 The Awful Truth (1937) {tmdb-14675}
+408 The Thin Blue Line (1988) {tmdb-14285}
+409 Suspiria (1977) {tmdb-11906}
+410 The Headless Woman (2008) {tmdb-8898}
+411 Opening Night (1977) {tmdb-33665}
+412 Snow White and the Seven Dwarfs (1937) {tmdb-408}
+413 Le Plaisir (1952) {tmdb-43360}
+414 Woman in the Dunes (1964) {tmdb-16672}
+415 Safe (1995) {tmdb-32646}
+416 Dogville (2003) {tmdb-553}
+417 Europa '51 (1952) {tmdb-41464}
+418 Days of Being Wild (1990) {tmdb-18311}
+419 Fantasia (1940) {tmdb-756}
+420 Chelsea Girls (1966) {tmdb-1686}
+421 Festen (1998) {tmdb-309}
+422 Flowers of Shanghai (1998) {tmdb-45935}
+423 Winter Light (1962) {imdb-tt0057358}
+424 Splendor in the Grass (1961) {tmdb-28569}
+425 The Crime of Monsieur Lange (1936) {tmdb-52677}
+426 French Cancan (1955) {tmdb-45213}
+427 An Angel at My Table (1990) {tmdb-2891}
+428 The Wind (1928) {tmdb-31416}
+429 The Shawshank Redemption (1994) {tmdb-278}
+430 Limelight (1952) {tmdb-28971}
+431 Holy Motors (2012) {tmdb-103328}
+432 Bride of Frankenstein (1935) {tmdb-229}
+433 Under the Skin (2013) {tmdb-97370}
+434 Shoot the Piano Player (1960) {tmdb-1818}
+435 A Trip to the Moon (1902) {tmdb-775}
+436 If…. (1968) {tmdb-14794}
+437 Lost in Translation (2003) {tmdb-153}
+438 La Terra trema (1948) {tmdb-43445}
+439 Listen to Britain (1942) {tmdb-88609}
+440 Possession (1981) {tmdb-21484}
+441 The Innocents (1961) {tmdb-16372}
+442 Shadows of Our Forgotten Ancestors (1964) {tmdb-26782}
+443 Scenes from a Marriage (1973) {tmdb-65170}
+444 Twenty Years Later (1984) {tmdb-86320}
+445 Ivan's Childhood (1962) {tmdb-31442}
+446 The Scarlet Empress (1934) {tmdb-31527}
+447 In Vanda's Room (2000) {tmdb-87063}
+448 A Star is Born (1954) {tmdb-3111}
+449 Le Bonheur (1965) {tmdb-53023}
+450 La Région centrale (1971) {tmdb-90041}
+451 Accattone (1961) {tmdb-12491}
+452 The Long Goodbye (1973) {tmdb-1847}
+453 The Cameraman (1928) {tmdb-31411}
+454 Naked (1993) {tmdb-21450}
+455 October (1928) {tmdb-697}
+456 Songs from the Second Floor (2000) {tmdb-34070}
+457 Barren Lives (1963) {tmdb-836}
+458 Grave of the Fireflies (1988) {tmdb-12477}
+459 Paris is Burning (1990) {tmdb-31225}
+460 All the President's Men (1976) {tmdb-891}
+461 Senso (1954) {tmdb-43195}
+462 Lola (1961) {tmdb-40641}
+463 Landscape in the Mist (1988) {tmdb-47795}
+464 Syndromes and a Century (2006) {tmdb-27904}
+465 À nos amours (1983) {tmdb-2282}
+466 The Dead (1987) {tmdb-39507}
+467 Carrie (1976) {tmdb-7340}
+468 Dersu Uzala (1975) {tmdb-9764}
+469 High Noon (1952) {tmdb-288}
+470 Koyaanisqatsi (1982) {tmdb-11314}
+471 The Palm Beach Story (1942) {tmdb-32255}
+472 Network (1976) {tmdb-10774}
+473 Talk to Her (2002) {tmdb-64}
+474 The Act of Killing (2012) {tmdb-123678}
+475 Zama (2017) {tmdb-326382}
+476 By the Bluest of Seas (1936) {tmdb-110733}
+477 Pinocchio (1940) {tmdb-10895}
+478 Raise the Red Lantern (1991) {tmdb-10404}
+479 To Kill a Mockingbird (1962) {tmdb-595}
+480 Phantom Thread (2017) {tmdb-400617}
+481 Once Upon a Time in Anatolia (2011) {tmdb-74879}
+482 Five Easy Pieces (1970) {tmdb-26617}
+483 Jr. Steamboat Bill (1928) {tmdb-25768}
+484 Masculin féminin (1966) {tmdb-4710}
+485 Shane (1953) {tmdb-3110}
+486 Our Hospitality (1923) {tmdb-701}
+487 The Bitter Tears of Petra von Kant (1972) {tmdb-10310}
+488 Casino (1995) {tmdb-524}
+489 A.I. Artificial Intelligence (2001) {tmdb-644}
+490 Wagon Master (1950) {tmdb-37327}
+491 A Moment of Innocence (1996) {tmdb-43976}
+492 The Death of Mr. Lazarescu (2005) {tmdb-31032}
+493 Platform (2000) {tmdb-80427}
+494 Secrets & Lies (1996) {tmdb-11159}
+495 Elephant (2003) {tmdb-1807}
+496 Blue (1993) {tmdb-94794}
+497 Russian Ark (2002) {tmdb-16646}
+498 The Damned (1969) {tmdb-41876}
+499 The Enigma of Kaspar Hauser (1974) {tmdb-11710}
+500 Marketa Lazarová (1967) {tmdb-25904}
+501 Inland Empire (2006) {tmdb-1730}
+502 Early Summer (1951) {tmdb-50247}
+503 After Life (1998) {tmdb-17962}
+504 Short Cuts (1993) {tmdb-695}
+505 Monty Python's Life of Brian (1979) {tmdb-583}
+506 The Hustler (1961) {tmdb-990}
+507 To Have and Have Not (1944) {tmdb-22584}
+508 Withnail & I (1987) {tmdb-13446}
+509 Aparajito (1956) {tmdb-897}
+510 Boogie Nights (1997) {tmdb-4995}
+511 Toni Erdmann (2016) {tmdb-374475}
+512 Closely Watched Trains (1966) {tmdb-789}
+513 Blow Out (1981) {tmdb-11644}
+514 Man of Aran (1934) {tmdb-47684}
+515 Twin Peaks: The Return (2017) {imdb-tt4093826}
+516 East of Eden (1955) {tmdb-220}
+517 Alexander Nevsky (1938) {tmdb-10235}
+518 Faust (1926) {tmdb-10728}
+519 Alice in the Cities (1974) {tmdb-2204}
+520 Crash (1996) {tmdb-884}
+521 And Life Goes On... (1992) {tmdb-83761}
+522 The Lives of Others (2006) {tmdb-582}
+523 Dead Ringers (1988) {tmdb-9540}
+524 Reservoir Dogs (1992) {tmdb-500}
+525 Les Vampires (1915) {tmdb-29082}
+526 Point Blank (1967) {tmdb-26039}
+527 Rosetta (1999) {tmdb-11489}
+528 U.S.A. Harlan County (1976) {tmdb-33324}
+529 Strangers on a Train (1951) {tmdb-845}
+530 No Country for Old Men (2007) {tmdb-6977}
+531 Pan's Labyrinth (2006) {tmdb-1417}
+532 12 Angry Men (1957) {tmdb-389}
+533 Fight Club (1999) {tmdb-550}
+534 The Lady from Shanghai (1948) {tmdb-3766}
+535 Picnic at Hanging Rock (1975) {tmdb-11020}
+536 Twin Peaks: Fire Walk with Me (1992) {tmdb-1923}
+537 The Wind Will Carry Us (1999) {tmdb-43423}
+538 Hannah and Her Sisters (1986) {tmdb-5143}
+539 Oldboy (2003) {tmdb-670}
+540 The Terminator (1984) {tmdb-218}
+541 Fellini Satyricon (1969) {tmdb-11163}
+542 Memories of Murder (2003) {tmdb-11423}
+543 Yellow Earth (1984) {tmdb-92990}
+544 Boyhood (2014) {tmdb-85350}
+545 The Bridge on the River Kwai (1957) {tmdb-826}
+546 The Probably Devil (1977) {tmdb-32097}
+547 Die Hard (1988) {tmdb-562}
+548 Nostalgia for the Light (2010) {tmdb-72721}
+549 Yeelen (1987) {tmdb-71329}
+550 Sambizanga (1972) {tmdb-87392}
+551 The Age of Innocence (1993) {tmdb-10436}
+552 elle il tu Je (1974) {tmdb-93934}
+553 The Blue Angel (1930) {tmdb-228}
+554 Dead Man (1995) {tmdb-922}
+555 Princess Mononoke (1997) {tmdb-128}
+556 Morvern Callar (2002) {tmdb-18602}
+557 La Haine (1995) {tmdb-406}
+558 The Wedding March (1928) {tmdb-42537}
+559 Doctor Zhivago (1965) {tmdb-907}
+560 Punch-Drunk Love (2002) {tmdb-8051}
+561 The Silence (1963) {tmdb-11506}
+562 Easy Rider (1969) {tmdb-624}
+563 Young Mr. Lincoln (1939) {tmdb-43838}
+564 Laura (1944) {tmdb-1939}
+565 Shadow of a Doubt (1943) {tmdb-21734}
+566 Ninotchka (1939) {tmdb-1859}
+567 The Testament of Dr. Mabuse (1933) {tmdb-12206}
+568 WALL-E (2008) {tmdb-10681}
+569 Kagemusha (1980) {tmdb-11953}
+570 That Obscure Object of Desire (1977) {tmdb-5781}
+571 A Night at the Opera (1935) {tmdb-37719}
+572 Butch Cassidy and the Sundance Kid (1969) {tmdb-642}
+573 The Taking of Power by Louis XIV (1966) {tmdb-69912}
+574 Hidden Dragon Crouching Tiger (2000) {tmdb-146}
+575 Bigger Than Life (1956) {tmdb-26036}
+576 Tale of Tales (1979) {tmdb-36079}
+577 Forrest Gump (1994) {tmdb-13}
+578 The French Connection (1971) {tmdb-1051}
+579 The Sound of Music (1965) {tmdb-15121}
+580 Se7en (1995) {tmdb-807}
+581 I Walked with a Zombie (1943) {tmdb-27130}
+582 Gentlemen Prefer Blondes (1953) {tmdb-759}
+583 The Servant (1963) {tmdb-42987}
+584 Fellini's Roma (1972) {tmdb-11035}
+585 Providence (1977) {tmdb-54140}
+586 Land Without Bread (1933) {tmdb-91}
+587 Seven Chances (1925) {tmdb-32600}
+588 Mad Max 2 (1981) {tmdb-8810}
+589 The Round-Up (1966) {tmdb-94663}
+590 West Indies (1979) {tmdb-271858}
+591 The Lord of the Rings: The Fellowship of the Ring (2001) {tmdb-120}
+592 Cat People (1942) {tmdb-25508}
+593 Brokeback Mountain (2005) {tmdb-142}
+594 The Red Circle (1970) {tmdb-11657}
+595 The Master (2012) {tmdb-68722}
+596 Scorpio Rising (1963) {tmdb-46787}
+597 Hatari! (1962) {tmdb-11385}
+598 The Devils (1971) {tmdb-31767}
+599 D'Est (1993) {tmdb-104739}
+600 Boudu Saved from Drowning (1932) {tmdb-48365}
+601 As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty (2000) {tmdb-130824}
+602 Barton Fink (1991) {tmdb-290}
+603 Edvard Munch (1974) {tmdb-50254}
+604 Pink Flamingos (1972) {tmdb-692}
+605 Les Amants du Pont-Neuf (1991) {tmdb-2767}
+606 Deliverance (1972) {tmdb-10669}
+607 Full Metal Jacket (1987) {tmdb-600}
+608 Repulsion (1965) {tmdb-11481}
+609 Loves of a Blonde (1965) {tmdb-39387}
+610 Terminator 2: Judgment Day (1991) {tmdb-280}
+611 Grey Gardens (1975) {tmdb-17346}
+612 Halloween (1978) {tmdb-948}
+613 Symbiopsychotaxiplasm: Take One (1968) {tmdb-44783}
+614 My Friend Ivan Lapshin (1985) {tmdb-83491}
+615 Children of Men (2006) {tmdb-9693}
+616 Being There (1979) {tmdb-10322}
+617 I Vitelloni (1953) {tmdb-12548}
+618 The Long Day Closes (1992) {tmdb-49956}
+619 Jurassic Park (1993) {tmdb-329}
+620 Hana-bi (1997) {tmdb-5910}
+621 Pat Garrett and Billy the Kid (1973) {tmdb-11577}
+622 Harakiri (1962) {tmdb-14537}
+623 3 Women (1977) {tmdb-41662}
+624 The Asphalt Jungle (1950) {tmdb-16958}
+625 Amélie (2001) {tmdb-194}
+626 Don't Look Back (1967) {tmdb-135}
+627 Bande à part (1964) {tmdb-8073}
+628 Hour of the Wolf (1968) {tmdb-18333}
+629 Shadows (1959) {tmdb-15484}
+630 the Gambler Dr. Mabuse (1922) {tmdb-5998}
+631 The Golden Coach (1952) {tmdb-56167}
+632 Tootsie (1982) {tmdb-9576}
+633 Portrait of Jason (1967) {tmdb-83232}
+634 The Ladies Man (1961) {tmdb-28333}
+635 New York Synecdoche (2008) {tmdb-4960}
+636 Walkabout (1971) {tmdb-36040}
+637 The Dark Knight (2008) {tmdb-155}
+638 Xala (1975) {tmdb-76636}
+639 The Virgin Spring (1960) {tmdb-11656}
+640 Alphaville (1965) {tmdb-8072}
+641 Colossal Youth (2006) {tmdb-82404}
+642 My Concubine Farewell (1993) {tmdb-10997}
+643 Zodiac (2007) {tmdb-1949}
+644 Casque d'or (1952) {tmdb-68822}
+645 Strike (1925) {tmdb-44967}
+646 Titanic (1997) {tmdb-597}
+647 They Live by Night (1948) {tmdb-44190}
+648 The Wicker Man (1973) {tmdb-16307}
+649 Bambi (1942) {tmdb-3170}
+650 Fat City (1972) {tmdb-16993}
+651 Rocky (1976) {tmdb-1366}
+652 Hoop Dreams (1994) {tmdb-14275}
+653 The Lady Vanishes (1938) {tmdb-940}
+654 Nazarín (1958) {imdb-tt0051983}
+655 Bring Me the Head of Alfredo Garcia (1974) {tmdb-11942}
+656 Down by Law (1986) {tmdb-1554}
+657 The Watermelon Woman (1996) {tmdb-44479}
+658 Amour (2012) {tmdb-86837}
+659 Rebecca (1940) {tmdb-223}
+660 Scarface (1932) {tmdb-877}
+661 Plácido (1961) {tmdb-51317}
+662 The Ghost and Mrs. Muir (1947) {tmdb-22292}
+663 Millennium Mambo (2001) {tmdb-11553}
+664 Arrebato (1979) {tmdb-4494}
+665 Silent Light (2007) {tmdb-2012}
+666 The Phantom of Liberty (1974) {tmdb-5558}
+667 The Marriage of Maria Braun (1979) {tmdb-661}
+668 The Sorrow and the Pity (1969) {tmdb-42611}
+669 The Intruder (2004) {tmdb-79827}
+670 Chronicle of a Summer (1961) {tmdb-84972}
+671 Ratcatcher (1999) {tmdb-29698}
+672 Il Posto (1961) {tmdb-31742}
+673 Hyènes (1992) {tmdb-124085}
+674 7 Women (1965) {tmdb-994419}
+675 Frankenstein (1931) {tmdb-3035}
+676 Trainspotting (1996) {tmdb-627}
+677 The Navigator (1924) {tmdb-32318}
+678 W.R.: Mysteries of the Organism (1971) {tmdb-42529}
+679 The Party (1968) {tmdb-10794}
+680 Nouvelle vague (1990) {tmdb-32691}
+681 Il Grido (1957) {tmdb-41054}
+682 The Piano Teacher (2001) {tmdb-1791}
+683 Top Hat (1935) {tmdb-3080}
+684 Wild at Heart (1990) {tmdb-483}
+685 Local Hero (1983) {tmdb-11235}
+686 The Royal Tenenbaums (2001) {tmdb-9428}
+687 Toy Story (1995) {tmdb-862}
+688 Chronicle of Anna Magdalena Bach (1968) {tmdb-95600}
+689 The Sun Shines Bright (1953) {tmdb-109539}
+690 The Hawks and the Sparrows (1966) {tmdb-33954}
+691 The Holy Mountain (1973) {tmdb-8327}
+692 Lancelot du Lac (1974) {tmdb-55848}
+693 One Way or Another (1977) {tmdb-47096}
+694 The Purple Rose of Cairo (1985) {tmdb-10849}
+695 A Short Film About Killing (1987) {imdb-tt0095468}
+696 Thelma & Louise (1991) {tmdb-1541}
+697 Triumph of the Will (1935) {tmdb-39266}
+698 Before Sunset (2004) {tmdb-80}
+699 Moonfleet (1955) {tmdb-29967}
+700 Cure (1997) {tmdb-36095}
+701 Antonio das Mortes (1969) {tmdb-74349}
+702 Wake in Fright (1971) {tmdb-26405}
+703 The Tiger of Eschnapur (1958) {imdb-tt0052295}
+704 The Circus (1928) {tmdb-28978}
+705 Sauve qui peut (la vie) (1980) {tmdb-113479}
+706 3 Weeks and 2 Days 4 Months (2007) {tmdb-2009}
+707 Ace in the Hole (1951) {tmdb-25364}
+708 Gimme Shelter (1970) {tmdb-132}
+709 Akira (1988) {tmdb-149}
+710 Love Me Tonight (1932) {tmdb-31532}
+711 Rushmore (1998) {tmdb-11545}
+712 Robocop (1987) {tmdb-5548}
+713 The Big Heat (1953) {tmdb-14580}
+714 The Manchurian Candidate (1962) {tmdb-982}
+715 Carol (2015) {tmdb-258480}
+716 Sun Oh (1967) {tmdb-91288}
+717 A Hard Day's Night (1964) {tmdb-704}
+718 New York New York (1977) {tmdb-12637}
+719 The Great Beauty (2013) {tmdb-179144}
+720 Flaming Creatures (1963) {tmdb-47122}
+721 Dancer in the Dark (2000) {tmdb-16}
+722 Salesman (1969) {tmdb-27375}
+723 Design for Living (1933) {tmdb-77210}
+724 La Belle Noiseuse (1991) {tmdb-12627}
+725 My Own Private Idaho (1991) {tmdb-468}
+726 The Emperor's Naked Army Marches On (1987) {tmdb-51929}
+727 The Age of the Earth (1980) {tmdb-76816}
+728 Vive L'Amour (1994) {tmdb-11985}
+729 Ben-Hur (1959) {tmdb-665}
+730 Fish Tank (2009) {tmdb-24469}
+731 Hellzapoppin' (1941) {tmdb-19136}
+732 Les Dames du Bois de Boulogne (1945) {tmdb-49845}
+733 Ossessione (1943) {tmdb-5155}
+734 The Trial (1962) {tmdb-3009}
+735 Distant (2002) {tmdb-37910}
+736 Kaagaz Ke Phool (1959) {tmdb-53767}
+737 Subarnarekha (1965) {tmdb-86303}
+738 Wings (1966) {tmdb-50013}
+739 Born in Flames (1983) {tmdb-36832}
+740 The Bad and the Beautiful (1952) {tmdb-32499}
+741 A Prophet (2009) {tmdb-21575}
+742 Zelig (1983) {tmdb-11030}
+743 The Wild Child (1970) {tmdb-1627}
+744 Mother and Son (1997) {tmdb-44361}
+745 Lolita (1962) {tmdb-802}
+746 Notes and Sketches Diaries (1969) {imdb-tt0196499}
+747 A Place in the Sun (1951) {tmdb-25673}
+748 A New Leaf (1971) {tmdb-36850}
+749 Foolish Wives (1922) {tmdb-35227}
+750 The Man Who Would Be King (1975) {tmdb-983}
+751 Un Chant d'amour (1950) {tmdb-87561}
+752 Good Morning (1959) {tmdb-28276}
+753 Raising Arizona (1987) {tmdb-378}
+754 Mr. Smith Goes to Washington (1939) {tmdb-3083}
+755 Hunger (2008) {tmdb-10360}
+756 Cairo Station (1958) {tmdb-47324}
+757 The Adventures of Prince Achmed (1926) {tmdb-19354}
+758 Rebel Without a Cause (1955) {tmdb-221}
+759 Roma (2018) {tmdb-426426}
+760 Young Frankenstein (1974) {tmdb-3034}
+761 Detour (1945) {tmdb-20367}
+762 Fort Apache (1948) {tmdb-37347}
+763 The 39 Steps (1935) {tmdb-260}
+764 Phantom of the Paradise (1974) {tmdb-27327}
+765 Taipei Story (1985) {tmdb-106380}
+766 Stand by Me (1986) {tmdb-235}
+767 Two English Girls (1971) {tmdb-42513}
+768 Passion (1982) {tmdb-32692}
+769 Funny Games (1997) {tmdb-10234}
+770 Great Expectations (1946) {tmdb-14320}
+771 Miller's Crossing (1990) {tmdb-379}
+772 The Ballad of Narayama (1983) {tmdb-42113}
+773 The Killing (1956) {tmdb-247}
+774 Abraham's Valley (1993) {tmdb-107693}
+775 When Harry Met Sally... (1989) {tmdb-639}
+776 Blissfully Yours (2002) {tmdb-47046}
+777 Code Unknown (2000) {tmdb-30970}
+778 Les Diaboliques (1955) {tmdb-827}
+779 The Firemen's Ball (1967) {tmdb-38442}
+780 Mädchen in Uniform (1931) {tmdb-9653}
+781 Titicut Follies (1967) {tmdb-41212}
+782 Morocco (1930) {tmdb-42641}
+783 The Fly (1986) {tmdb-9426}
+784 Red Beard (1965) {tmdb-3780}
+785 Chikamatsu monogatari (1954) {tmdb-35861}
+786 The His Wife & Her Lover the Thief Cook (1989) {tmdb-7452}
+787 Mamma Roma (1962) {tmdb-47796}
+788 Dog Star Man (1964) {tmdb-127320}
+789 Dazed and Confused (1993) {tmdb-9571}
+790 My Life as a Dog (1985) {tmdb-8816}
+791 Moulin Rouge! (2001) {tmdb-824}
+792 The New World (2005) {tmdb-11400}
+793 Duck Amuck (1953) {tmdb-53210}
+794 Veronika Voss (1982) {tmdb-2262}
+795 Still Life (2006) {tmdb-2346}
+796 Gummo (1997) {tmdb-18415}
+797 Dodes'ka-den (1970) {tmdb-33205}
+798 Trouble Every Day (2001) {tmdb-40723}
+799 She Wore a Yellow Ribbon (1949) {tmdb-13909}
+800 Street of Shame (1956) {tmdb-43255}
+801 Dumbo (1941) {tmdb-11360}
+802 All Quiet on the Western Front (1930) {tmdb-143}
+803 A Streetcar Named Desire (1951) {tmdb-702}
+804 Big Deal on Madonna Street (1958) {tmdb-24382}
+805 Broadcast News (1987) {tmdb-12626}
+806 Women on the Verge of a Nervous Breakdown (1988) {tmdb-4203}
+807 Smiles of a Summer Night (1955) {tmdb-11700}
+808 Malcolm X (1992) {tmdb-1883}
+809 El Sur (1983) {tmdb-48139}
+810 A Woman of Paris (1923) {tmdb-28974}
+811 JFK (1991) {tmdb-820}
+812 Van Gogh (1991) {tmdb-4734}
+813 Rose Hobart (1936) {tmdb-105552}
+814 The Social Network (2010) {tmdb-37799}
+815 Requiem for a Dream (2000) {tmdb-641}
+816 The Son (2002) {tmdb-16211}
+817 Pussycat! Kill! Kill! Faster (1965) {tmdb-315}
+818 Shock Corridor (1963) {tmdb-25504}
+819 Hitler: A Film from Germany (1977) {tmdb-58435}
+820 Losing Ground (1982) {tmdb-273896}
+821 Ferris Bueller's Day Off (1986) {tmdb-9377}
+822 White Heat (1949) {tmdb-15794}
+823 Y tu mamá también (2001) {tmdb-1391}
+824 Evil Dead II (1987) {tmdb-765}
+825 Petite Maman (2021) {tmdb-749004}
+826 The Tin Drum (1979) {tmdb-659}
+827 The Idiots (1998) {tmdb-452}
+828 They Were Expendable (1945) {tmdb-18771}
+829 Memento (2000) {tmdb-77}
+830 Forbidden Games (1952) {tmdb-5000}
+831 An American Werewolf in London (1981) {tmdb-814}
+832 The Producers (1968) {tmdb-30197}
+833 Deep End (1970) {tmdb-59408}
+834 We All Loved Each Other So Much (1974) {tmdb-42269}
+835 Edward Scissorhands (1990) {tmdb-162}
+836 La commune (Paris, 1871) (2000) {imdb-tt0257497}
+837 Funeral Parade of Roses (1969) {tmdb-1556}
+838 Sicilia! (1999) {tmdb-104871}
+839 The Right Stuff (1983) {tmdb-9549}
+840 The Thief of Bagdad (1940) {tmdb-12232}
+841 Paper Moon (1973) {tmdb-11293}
+842 Outskirts (1933) {tmdb-94638}
+843 Point Break (1991) {tmdb-1089}
+844 Breakfast at Tiffany's (1961) {tmdb-164}
+845 O Lucky Man! (1973) {tmdb-42464}
+846 Red Sorghum (1987) {tmdb-42006}
+847 Invasion of the Body Snatchers (1956) {tmdb-11549}
+848 Irréversible (2002) {tmdb-979}
+849 The Adventures of Robin Hood (1938) {tmdb-10907}
+850 Once Upon a Time... in Hollywood (2019) {tmdb-466272}
+851 Grizzly Man (2005) {tmdb-501}
+852 35 Shots of Rum (2008) {tmdb-26191}
+853 The Unknown (1927) {tmdb-27503}
+854 Spione (1928) {tmdb-78507}
+855 Inglourious Basterds (2009) {tmdb-16869}
+856 Too Late Too Early (1981) {tmdb-97032}
+857 The Naked Island (1960) {tmdb-3764}
+858 Scarface (1983) {tmdb-111}
+859 The Misfits (1961) {tmdb-11536}
+860 Shame (1968) {tmdb-26372}
+861 The Night of Counting the Years (1969) {tmdb-46707}
+862 The Seasons (1975) {tmdb-44357}
+863 Blue is the Warmest Colour (2013) {tmdb-152584}
+864 The Woman Next Door (1981) {tmdb-12579}
+865 Akira Kurosawa's Dreams (1990) {tmdb-12516}
+866 The Great Escape (1963) {tmdb-5925}
+867 The Miracle of Morgan's Creek (1944) {tmdb-42879}
+868 The Phantom Carriage (1921) {tmdb-58129}
+869 The African Queen (1951) {tmdb-488}
+870 Heimat (1984) {tmdb-43059}
+871 Zabriskie Point (1970) {tmdb-2998}
+872 Claire's Knee (1970) {tmdb-2860}
+873 Clueless (1995) {tmdb-9603}
+874 Starship Troopers (1997) {tmdb-563}
+875 Angel (1937) {tmdb-44208}
+876 Margaret (2011) {tmdb-44754}
+877 Toute une nuit (1982) {tmdb-63215}
+878 Time of the Gypsies (1989) {tmdb-20123}
+879 Assault on Precinct 13 (1976) {tmdb-17814}
+880 It's a Gift (1934) {tmdb-28001}
+881 Spring, Summer, Autumn, Winter… and Spring (2003) {tmdb-113}
+882 Welfare (1975) {tmdb-90511}
+883 Shanghai Express (1932) {tmdb-875}
+884 Gloria (1980) {tmdb-10889}
+885 L'Amour fou (1968) {tmdb-63401}
+886 Stroszek (1977) {tmdb-11698}
+887 Exotica (1994) {tmdb-20156}
+888 Female Trouble (1974) {tmdb-14267}
+889 Juliet of the Spirits (1965) {tmdb-19120}
+890 Mysteries of Lisbon (2010) {tmdb-57403}
+891 Persepolis (2007) {tmdb-2011}
+892 The End of Summer (1961) {tmdb-28273}
+893 The Asthenic Syndrome (1989) {tmdb-97039}
+894 Mikey and Nicky (1976) {tmdb-59143}
+895 The Red and the White (1967) {tmdb-52885}
+896 My Little Loves (1974) {tmdb-64296}
+897 Amores perros (2000) {tmdb-55}
+898 Sideways (2004) {tmdb-9675}
+899 Ceddo (1977) {tmdb-97029}
+900 Showgirls (1995) {tmdb-10802}
+901 Monty Python and the Holy Grail (1975) {tmdb-762}
+902 Wendy and Lucy (2008) {tmdb-8942}
+903 Cría cuervos (1976) {tmdb-51857}
+904 Anatomy of a Murder (1959) {tmdb-93}
+905 People on Sunday (1930) {tmdb-347}
+906 The Criminal Life of Archibaldo de la Cruz (1955) {tmdb-37628}
+907 Night of the Demon (1957) {tmdb-25103}
+908 Mothlight (1963) {tmdb-97514}
+909 Zorns Lemma (1970) {tmdb-88276}
+910 From the Clouds to the Resistance (1979) {tmdb-87415}
+911 Tongues Untied (1989) {tmdb-97049}
+912 Cemetery of Splendour (2015) {tmdb-298721}
+913 Deep Red (1975) {tmdb-20126}
+914 Simon of the Desert (1965) {tmdb-36265}
+915 Saving Private Ryan (1998) {tmdb-857}
+916 Othello (1951) {tmdb-47697}
+917 Atlantics (2019) {tmdb-496967}
+918 7th Heaven (1927) {tmdb-82474}
+919 Portrait of Jennie (1948) {tmdb-32558}
+920 The Last Temptation of Christ (1988) {tmdb-11051}
+921 The Bridges of Madison County (1995) {tmdb-688}
+922 The Last Emperor (1987) {tmdb-746}
+923 Dirty Harry (1971) {tmdb-984}
+924 Let the Right One In (2008) {tmdb-13310}
+925 My Car! Khrustalyov (1998) {tmdb-100784}
+926 Doomed Love (1978) {tmdb-131478}
+927 Meek's Cutoff (2010) {tmdb-57120}
+928 The Fountainhead (1949) {tmdb-24650}
+929 Seven Beauties (1975) {tmdb-37550}
+930 Airplane! (1980) {tmdb-813}
+931 Sawdust and Tinsel (1953) {tmdb-47721}
+932 The Long Farewell (1971) {tmdb-148822}
+933 Duel in the Sun (1946) {tmdb-32275}
+934 Perfumed Nightmare (1977) {tmdb-84765}
+935 True Heart Susie (1919) {tmdb-36106}
+936 Mother India (1957) {tmdb-917}
+937 Gun Crazy (1950) {tmdb-18671}
+938 Mon oncle d'Amérique (1980) {tmdb-39543}
+939 Port of Shadows (1938) {tmdb-46326}
+940 La Chienne (1931) {tmdb-26614}
+941 Olympia (1938) {tmdb-677}
+942 American Graffiti (1973) {tmdb-838}
+943 The River (1997) {tmdb-54291}
+944 American Beauty (1999) {tmdb-14}
+945 A History of Violence (2005) {tmdb-59}
+946 Numéro deux (1975) {tmdb-112823}
+947 La Bête humaine (1938) {tmdb-29415}
+948 Léon (1994) {tmdb-101}
+949 Not Reconciled (1965) {tmdb-128846}
+950 Arabian Nights (1974) {tmdb-47406}
+951 Elephant (1989) {tmdb-37055}
+952 Reds (1981) {tmdb-18254}
+953 The Reckless Moment (1949) {tmdb-28007}
+954 un Noir Moi (1958) {tmdb-64299}
+955 Le Boucher (1970) {tmdb-2912}
+956 Near Dark (1987) {tmdb-11879}
+957 An American in Paris (1951) {tmdb-2769}
+958 Spartacus (1960) {tmdb-967}
+959 Duel (1971) {tmdb-839}
+960 Handsworth Songs (1986) {tmdb-124027}
+961 Anatahan (1953) {tmdb-104776}
+962 L'Enfance nue (1968) {tmdb-31345}
+963 Elevator to the Gallows (1958) {tmdb-1093}
+964 The Killer (1989) {tmdb-10835}
+965 Le Trou (1960) {tmdb-29259}
+966 The Godfather Part III (1990) {tmdb-242}
+967 Cul-de-sac (1966) {tmdb-4772}
+968 Rope (1948) {tmdb-1580}
+969 Before Sunrise (1995) {tmdb-76}
+970 Berlin: Symphony of a Great City (1927) {tmdb-222}
+971 Blood Simple (1984) {tmdb-11368}
+972 Roman Holiday (1953) {tmdb-804}
+973 The Last Detail (1973) {tmdb-14886}
+974 Who's Afraid of Virginia Woolf? (1966) {tmdb-396}
+975 Caro diario (1994) {tmdb-25403}
+976 The Lord of the Rings: The Return of the King (2003) {tmdb-122}
+977 They Live (1988) {tmdb-8337}
+978 Saturday Night and Sunday Morning (1960) {tmdb-37230}
+979 Beyond the Valley of the Dolls (1970) {tmdb-5722}
+980 The Return (2003) {tmdb-122}
+981 The Tarnished Angels (1957) {tmdb-38432}
+982 Sweetie (1989) {tmdb-65015}
+983 America America (1963) {tmdb-47249}
+984 Fox and His Friends (1975) {tmdb-42254}
+985 The 47 Ronin (1941) {tmdb-45978}
+986 A Page of Madness (1926) {tmdb-94525}
+987 Z (1969) {tmdb-2721}
+988 The Host (2006) {tmdb-1255}
+989 Les Maîtres fous (1955) {tmdb-84820}
+990 Mildred Pierce (1945) {tmdb-3309}
+991 Lady Windermere's Fan (1925) {tmdb-121379}
+992 Le Sang des bêtes (1949) {tmdb-91262}
+993 The Naked Kiss (1964) {tmdb-26031}
+994 The Straight Story (1999) {tmdb-404}
+995 Floating Weeds (1959) {tmdb-46918}
+996 Sholay (1975) {tmdb-12259}
+997 Branded to Kill (1967) {tmdb-17905}
+998 Trás-os-Montes (1976) {tmdb-186967}
+999 Kwaidan (1964) {tmdb-30959}
+1000 Carlito's Way (1993) {tmdb-6075}

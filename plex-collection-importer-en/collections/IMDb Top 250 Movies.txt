@@ -1,0 +1,250 @@
+1 The Shawshank Redemption (1994) {imdb-tt0111161}
+2 The Godfather (1972) {imdb-tt0068646}
+3 The Dark Knight (2008) {imdb-tt0468569}
+4 The Godfather Part II (1974) {imdb-tt0071562}
+5 12 Angry Men (1957) {imdb-tt0050083}
+6 Schindler's List (1993) {imdb-tt0108052}
+7 The Lord of the Rings: The Return of the King (2003) {imdb-tt0167260}
+8 Pulp Fiction (1994) {imdb-tt0110912}
+9 The Lord of the Rings: The Fellowship of the Ring (2001) {imdb-tt0120737}
+10 The Good, the Bad and the Ugly (1966) {imdb-tt0060196}
+11 Forrest Gump (1994) {imdb-tt0109830}
+12 Fight Club (1999) {imdb-tt0137523}
+13 The Lord of the Rings: The Two Towers (2002) {imdb-tt0167261}
+14 Inception (2010) {imdb-tt1375666}
+15 Star Wars: Episode V - The Empire Strikes Back (1980) {imdb-tt0080684}
+16 The Matrix (1999) {imdb-tt0133093}
+17 Goodfellas (1990) {imdb-tt0099685}
+18 One Flew Over the Cuckoo's Nest (1975) {imdb-tt0073486}
+19 Se7en (1995) {imdb-tt0114369}
+20 It's a Wonderful Life (1946) {imdb-tt0038650}
+21 Seven Samurai (1954) {imdb-tt0047478}
+22 Interstellar (2014) {imdb-tt0816692}
+23 The Silence of the Lambs (1991) {imdb-tt0102926}
+24 Saving Private Ryan (1998) {imdb-tt0120815}
+25 City of God (2002) {imdb-tt0317248}
+26 Life Is Beautiful (1997) {imdb-tt0118799}
+27 The Green Mile (1999) {imdb-tt0120689}
+28 Spider-Man: Across the Spider-Verse (2023) {imdb-tt9362722}
+29 Star Wars: Episode IV - A New Hope (1977) {imdb-tt0076759}
+30 Terminator 2: Judgment Day (1991) {imdb-tt0103064}
+31 Back to the Future (1985) {imdb-tt0088763}
+32 Spirited Away (2001) {imdb-tt0245429}
+33 The Pianist (2002) {imdb-tt0253474}
+34 Psycho (1960) {imdb-tt0054215}
+35 Parasite (2019) {imdb-tt6751668}
+36 Gladiator (2000) {imdb-tt0172495}
+37 The Lion King (1994) {imdb-tt0110357}
+38 Léon: The Professional (1994) {imdb-tt0110413}
+39 American History X (1998) {imdb-tt0120586}
+40 The Departed (2006) {imdb-tt0407887}
+41 Whiplash (2014) {imdb-tt2582802}
+42 The Prestige (2006) {imdb-tt0482571}
+43 Grave of the Fireflies (1988) {imdb-tt0095327}
+44 The Usual Suspects (1995) {imdb-tt0114814}
+45 Harakiri (1962) {imdb-tt0056058}
+46 Casablanca (1942) {imdb-tt0034583}
+47 The Intouchables (2011) {imdb-tt1675434}
+48 Modern Times (1936) {imdb-tt0027977}
+49 Cinema Paradiso (1988) {imdb-tt0095765}
+50 Once Upon a Time in the West (1968) {imdb-tt0064116}
+51 Rear Window (1954) {imdb-tt0047396}
+52 Alien (1979) {imdb-tt0078748}
+53 City Lights (1931) {imdb-tt0021749}
+54 Apocalypse Now (1979) {imdb-tt0078788}
+55 Django Unchained (2012) {imdb-tt1853728}
+56 Memento (2000) {imdb-tt0209144}
+57 Raiders of the Lost Ark (1981) {imdb-tt0082971}
+58 WALL·E (2008) {imdb-tt0910970}
+59 The Lives of Others (2006) {imdb-tt0405094}
+60 Sunset Blvd (1950) {imdb-tt0043014}
+61 Paths of Glory (1957) {imdb-tt0050825}
+62 Oppenheimer (2023) {imdb-tt15398776}
+63 Avengers: Infinity War (2018) {imdb-tt4154756}
+64 The Shining (1980) {imdb-tt0081505}
+65 Spider-Man: Into the Spider-Verse (2018) {imdb-tt4633694}
+66 Witness for the Prosecution (1957) {imdb-tt0051201}
+67 The Great Dictator (1940) {imdb-tt0032553}
+68 Aliens (1986) {imdb-tt0090605}
+69 Inglourious Basterds (2009) {imdb-tt0361748}
+70 The Dark Knight Rises (2012) {imdb-tt1345836}
+71 American Beauty (1999) {imdb-tt0169547}
+72 Dr (1964) {imdb-tt0057012}
+73 Oldboy (2003) {imdb-tt0364569}
+74 Coco (2017) {imdb-tt2380307}
+75 Amadeus (1984) {imdb-tt0086879}
+76 Toy Story (1995) {imdb-tt0114709}
+77 Das Boot (1981) {imdb-tt0082096}
+78 Braveheart (1995) {imdb-tt0112573}
+79 Avengers: Endgame (2019) {imdb-tt4154796}
+80 Joker (2019) {imdb-tt7286456}
+81 Princess Mononoke (1997) {imdb-tt0119698}
+82 Good Will Hunting (1997) {imdb-tt0119217}
+83 Your Name (2016) {imdb-tt5311514}
+84 Once Upon a Time in America (1984) {imdb-tt0087843}
+85 High and Low (1963) {imdb-tt0057565}
+86 3 Idiots (2009) {imdb-tt1187043}
+87 Singin' in the Rain (1952) {imdb-tt0045152}
+88 Capernaum (2018) {imdb-tt8267604}
+89 Requiem for a Dream (2000) {imdb-tt0180093}
+90 Come and See (1985) {imdb-tt0091251}
+91 Toy Story 3 (2010) {imdb-tt0435761}
+92 Star Wars: Episode VI - Return of the Jedi (1983) {imdb-tt0086190}
+93 Eternal Sunshine of the Spotless Mind (2004) {imdb-tt0338013}
+94 2001: A Space Odyssey (1968) {imdb-tt0062622}
+95 The Hunt (2012) {imdb-tt2106476}
+96 Reservoir Dogs (1992) {imdb-tt0105236}
+97 Ikiru (1952) {imdb-tt0044741}
+98 Lawrence of Arabia (1962) {imdb-tt0056172}
+99 The Apartment (1960) {imdb-tt0053604}
+100 Citizen Kane (1941) {imdb-tt0033467}
+101 M (1931) {imdb-tt0022100}
+102 North by Northwest (1959) {imdb-tt0053125}
+103 Vertigo (1958) {imdb-tt0052357}
+104 Double Indemnity (1944) {imdb-tt0036775}
+105 Amélie (2001) {imdb-tt0211915}
+106 Scarface (1983) {imdb-tt0086250}
+107 Full Metal Jacket (1987) {imdb-tt0093058}
+108 Incendies (2010) {imdb-tt1255953}
+109 A Clockwork Orange (1971) {imdb-tt0066921}
+110 Heat (1995) {imdb-tt0113277}
+111 Up (2009) {imdb-tt1049413}
+112 To Kill a Mockingbird (1962) {imdb-tt0056592}
+113 The Sting (1973) {imdb-tt0070735}
+114 Hamilton (2020) {imdb-tt8503618}
+115 A Separation (2011) {imdb-tt1832382}
+116 Indiana Jones and the Last Crusade (1989) {imdb-tt0097576}
+117 Metropolis (1927) {imdb-tt0017136}
+118 Die Hard (1988) {imdb-tt0095016}
+119 Like Stars on Earth (2007) {imdb-tt0986264}
+120 Snatch (2000) {imdb-tt0208092}
+121 Bicycle Thieves (1948) {imdb-tt0040522}
+122 L (1997) {imdb-tt0119488}
+123 1917 (2019) {imdb-tt8579674}
+124 Taxi Driver (1976) {imdb-tt0075314}
+125 Downfall (2004) {imdb-tt0363163}
+126 Dangal (2016) {imdb-tt5074352}
+127 For a Few Dollars More (1965) {imdb-tt0059578}
+128 Batman Begins (2005) {imdb-tt0372784}
+129 Top Gun: Maverick (2022) {imdb-tt1745960}
+130 Some Like It Hot (1959) {imdb-tt0053291}
+131 The Kid (1921) {imdb-tt0012349}
+132 The Wolf of Wall Street (2013) {imdb-tt0993846}
+133 The Father (2020) {imdb-tt10272386}
+134 Green Book (2018) {imdb-tt6966692}
+135 All About Eve (1950) {imdb-tt0042192}
+136 Judgment at Nuremberg (1961) {imdb-tt0055031}
+137 The Truman Show (1998) {imdb-tt0120382}
+138 There Will Be Blood (2007) {imdb-tt0469494}
+139 Casino (1995) {imdb-tt0112641}
+140 Shutter Island (2010) {imdb-tt1130884}
+141 Ran (1985) {imdb-tt0089881}
+142 Pan's Labyrinth (2006) {imdb-tt0457430}
+143 Jurassic Park (1993) {imdb-tt0107290}
+144 The Sixth Sense (1999) {imdb-tt0167404}
+145 Unforgiven (1992) {imdb-tt0105695}
+146 A Beautiful Mind (2001) {imdb-tt0268978}
+147 No Country for Old Men (2007) {imdb-tt0477348}
+148 The Treasure of the Sierra Madre (1948) {imdb-tt0040897}
+149 Yojimbo (1961) {imdb-tt0055630}
+150 Kill Bill: Vol (2003) {imdb-tt0266697}
+151 The Thing (1982) {imdb-tt0084787}
+152 Monty Python and the Holy Grail (1975) {imdb-tt0071853}
+153 The Great Escape (1963) {imdb-tt0057115}
+154 Finding Nemo (2003) {imdb-tt0266543}
+155 Rashomon (1950) {imdb-tt0042876}
+156 The Elephant Man (1980) {imdb-tt0080678}
+157 Chinatown (1974) {imdb-tt0071315}
+158 Howl's Moving Castle (2004) {imdb-tt0347149}
+159 Dial M for Murder (1954) {imdb-tt0046912}
+160 Gone with the Wind (1939) {imdb-tt0031381}
+161 V for Vendetta (2005) {imdb-tt0434409}
+162 Prisoners (2013) {imdb-tt1392214}
+163 Raging Bull (1980) {imdb-tt0081398}
+164 Lock, Stock and Two Smoking Barrels (1998) {imdb-tt0120735}
+165 The Secret in Their Eyes (2009) {imdb-tt1305806}
+166 Inside Out (2015) {imdb-tt2096673}
+167 Spider-Man: No Way Home (2021) {imdb-tt10872600}
+168 Three Billboards Outside Ebbing, Missouri (2017) {imdb-tt5027774}
+169 Trainspotting (1996) {imdb-tt0117951}
+170 The Bridge on the River Kwai (1957) {imdb-tt0050212}
+171 Fargo (1996) {imdb-tt0116282}
+172 Warrior (2011) {imdb-tt1291584}
+173 Catch Me If You Can (2002) {imdb-tt0264464}
+174 Gran Torino (2008) {imdb-tt1205489}
+175 Klaus (2019) {imdb-tt4729430}
+176 My Neighbor Totoro (1988) {imdb-tt0096283}
+177 Million Dollar Baby (2004) {imdb-tt0405159}
+178 Harry Potter and the Deathly Hallows: Part 2 (2011) {imdb-tt1201607}
+179 Children of Heaven (1997) {imdb-tt0118849}
+180 Blade Runner (1982) {imdb-tt0083658}
+181 12 Years a Slave (2013) {imdb-tt2024544}
+182 Before Sunrise (1995) {imdb-tt0112471}
+183 The Grand Budapest Hotel (2014) {imdb-tt2278388}
+184 Ben-Hur (1959) {imdb-tt0052618}
+185 The Gold Rush (1925) {imdb-tt0015864}
+186 Barry Lyndon (1975) {imdb-tt0072684}
+187 Gone Girl (2014) {imdb-tt2267998}
+188 Hacksaw Ridge (2016) {imdb-tt2119532}
+189 In the Name of the Father (1993) {imdb-tt0107207}
+190 On the Waterfront (1954) {imdb-tt0047296}
+191 Memories of Murder (2003) {imdb-tt0353969}
+192 The General (1926) {imdb-tt0017925}
+193 The Deer Hunter (1978) {imdb-tt0077416}
+194 Wild Tales (2014) {imdb-tt3011894}
+195 Wild Strawberries (1957) {imdb-tt0050986}
+196 Dead Poets Society (1989) {imdb-tt0097165}
+197 The Third Man (1949) {imdb-tt0041959}
+198 The Wages of Fear (1953) {imdb-tt0046268}
+199 Mad Max: Fury Road (2015) {imdb-tt1392190}
+200 Sherlock Jr (1924) {imdb-tt0015324}
+201 Monsters, Inc (2001) {imdb-tt0198781}
+202 Mr (1939) {imdb-tt0031679}
+203 Jaws (1975) {imdb-tt0073195}
+204 How to Train Your Dragon (2010) {imdb-tt0892769}
+205 Mary and Max (2009) {imdb-tt0978762}
+206 Ford v Ferrari (2019) {imdb-tt1950186}
+207 The Seventh Seal (1957) {imdb-tt0050976}
+208 Room (2015) {imdb-tt3170832}
+209 The Big Lebowski (1998) {imdb-tt0118715}
+210 Ratatouille (2007) {imdb-tt0382932}
+211 Tokyo Story (1953) {imdb-tt0046438}
+212 Rocky (1976) {imdb-tt0075148}
+213 Hotel Rwanda (2004) {imdb-tt0395169}
+214 Logan (2017) {imdb-tt3315342}
+215 Spotlight (2015) {imdb-tt1895587}
+216 Platoon (1986) {imdb-tt0091763}
+217 The Passion of Joan of Arc (1928) {imdb-tt0019254}
+218 The Terminator (1984) {imdb-tt0088247}
+219 Jai Bhim (2021) {imdb-tt15097216}
+220 Before Sunset (2004) {imdb-tt0381681}
+221 Rush (2013) {imdb-tt1979320}
+222 Network (1976) {imdb-tt0074958}
+223 The Exorcist (1973) {imdb-tt0070047}
+224 The Best Years of Our Lives (1946) {imdb-tt0036868}
+225 Stand by Me (1986) {imdb-tt0092005}
+226 La haine (1995) {imdb-tt0113247}
+227 Pirates of the Caribbean: The Curse of the Black Pearl (2003) {imdb-tt0325980}
+228 The Wizard of Oz (1939) {imdb-tt0032138}
+229 The Incredibles (2004) {imdb-tt0317705}
+230 Into the Wild (2007) {imdb-tt0758758}
+231 Hachi: A Dog's Tale (2009) {imdb-tt1028532}
+232 To Be or Not to Be (1942) {imdb-tt0035446}
+233 The Handmaiden (2016) {imdb-tt4016934}
+234 My Father and My Son (2005) {imdb-tt0476735}
+235 Groundhog Day (1993) {imdb-tt0107048}
+236 The Battle of Algiers (1966) {imdb-tt0058946}
+237 The Grapes of Wrath (1940) {imdb-tt0032551}
+238 Amores Perros (2000) {imdb-tt0245712}
+239 The Sound of Music (1965) {imdb-tt0059742}
+240 Rebecca (1940) {imdb-tt0032976}
+241 Cool Hand Luke (1967) {imdb-tt0061512}
+242 The Iron Giant (1999) {imdb-tt0129167}
+243 Pather Panchali (1955) {imdb-tt0048473}
+244 The Help (2011) {imdb-tt1454029}
+245 It Happened One Night (1934) {imdb-tt0025316}
+246 The 400 Blows (1959) {imdb-tt0053198}
+247 Aladdin (1992) {imdb-tt0103639}
+248 Dances with Wolves (1990) {imdb-tt0099348}
+249 Life of Brian (1979) {imdb-tt0079470}
+250 Gangs of Wasseypur (2012) {imdb-tt1954470}

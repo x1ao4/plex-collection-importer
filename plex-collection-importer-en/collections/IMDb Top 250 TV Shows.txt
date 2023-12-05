@@ -1,0 +1,250 @@
+1 Breaking Bad (2008) {imdb-tt0903747}
+2 Planet Earth II (2016) {imdb-tt5491994}
+3 Planet Earth (2006) {imdb-tt0795176}
+4 Band of Brothers (2001) {imdb-tt0185906}
+5 Chernobyl (2019) {imdb-tt7366338}
+6 The Wire (2002) {imdb-tt0306414}
+7 Avatar: The Last Airbender (2005) {imdb-tt0417299}
+8 Blue Planet II (2017) {imdb-tt6769208}
+9 The Sopranos (1999) {imdb-tt0141842}
+10 Cosmos: A Spacetime Odyssey (2014) {imdb-tt2395695}
+11 Cosmos (1980) {imdb-tt0081846}
+12 Our Planet (2019) {imdb-tt9253866}
+13 Game of Thrones (2011) {imdb-tt0944947}
+14 The World at War (1973) {imdb-tt0071075}
+15 Rick and Morty (2013) {imdb-tt2861424}
+16 Bluey (2018) {imdb-tt7678620}
+17 Fullmetal Alchemist: Brotherhood (2009) {imdb-tt1355642}
+18 The Last Dance (2020) {imdb-tt8420184}
+19 Life (2009) {imdb-tt1533395}
+20 The Twilight Zone (1959) {imdb-tt0052520}
+21 Sherlock (2010) {imdb-tt1475582}
+22 The Vietnam War (2017) {imdb-tt1877514}
+23 Batman: The Animated Series (1992) {imdb-tt0103359}
+24 Attack on Titan (2013) {imdb-tt2560140}
+25 Scam 1992: The Harshad Mehta Story (2020) {imdb-tt12392504}
+26 The Office (2005) {imdb-tt0386676}
+27 Arcane (2021) {imdb-tt11126994}
+28 The Blue Planet (2001) {imdb-tt0296310}
+29 Better Call Saul (2015) {imdb-tt3032476}
+30 Human Planet (2011) {imdb-tt1806234}
+31 Firefly (2002) {imdb-tt0303461}
+32 Frozen Planet (2011) {imdb-tt2092588}
+33 Clarkson's Farm (2021) {imdb-tt10541088}
+34 Death Note (2006) {imdb-tt0877057}
+35 Only Fools and Horses (1981) {imdb-tt0081912}
+36 Hunter x Hunter (2011) {imdb-tt2098220}
+37 The Civil War (1990) {imdb-tt0098769}
+38 True Detective (2014) {imdb-tt2356777}
+39 Seinfeld (1989) {imdb-tt0098904}
+40 The Beatles: Get Back (2021) {imdb-tt9735318}
+41 The Decalogue (1989) {imdb-tt0092337}
+42 Persona (2018) {imdb-tt7920978}
+43 Fargo (2014) {imdb-tt2802850}
+44 Cowboy Bebop (1998) {imdb-tt0213338}
+45 Gravity Falls (2012) {imdb-tt1865718}
+46 Nathan for You (2013) {imdb-tt2297757}
+47 Last Week Tonight with John Oliver (2014) {imdb-tt3530232}
+48 When They See Us (2019) {imdb-tt7137906}
+49 Succession (2018) {imdb-tt7660850}
+50 Apocalypse: The Second World War (2009) {imdb-tt1508238}
+51 Friends (1994) {imdb-tt0108778}
+52 Africa (2013) {imdb-tt2571774}
+53 Taskmaster (2015) {imdb-tt4934214}
+54 TVF Pitchers (2015) {imdb-tt4742876}
+55 It's Always Sunny in Philadelphia (2005) {imdb-tt0472954}
+56 As If (2021) {imdb-tt13675832}
+57 Monty Python's Flying Circus (1969) {imdb-tt0063929}
+58 The West Wing (1999) {imdb-tt0200276}
+59 Das Boot (1985) {imdb-tt0081834}
+60 Curb Your Enthusiasm (2000) {imdb-tt0264235}
+61 One Piece (1999) {imdb-tt0388629}
+62 Fawlty Towers (1975) {imdb-tt0072500}
+63 BoJack Horseman (2014) {imdb-tt3398228}
+64 Leyla and Mecnun (2011) {imdb-tt1831164}
+65 Pride and Prejudice (1995) {imdb-tt0112130}
+66 Freaks and Geeks (1999) {imdb-tt0193676}
+67 Blackadder Goes Forth (1989) {imdb-tt0096548}
+68 Twin Peaks (1990) {imdb-tt0098936}
+69 Dragon Ball Z (1989) {imdb-tt0214341}
+70 Narcos (2015) {imdb-tt2707408}
+71 Chappelle's Show (2003) {imdb-tt0353049}
+72 Dragon Ball Z (1989) {imdb-tt0121220}
+73 Blue Eye Samurai (2023) {imdb-tt13309742}
+74 Black Mirror (2011) {imdb-tt2085059}
+75 The Last of Us (2023) {imdb-tt3581920}
+76 I, Claudius (1976) {imdb-tt0074006}
+77 Over the Garden Wall (2014) {imdb-tt3718778}
+78 South Park (1997) {imdb-tt0121955}
+79 Ted Lasso (2020) {imdb-tt10986410}
+80 Kota Factory (2019) {imdb-tt9432978}
+81 Six Feet Under (2001) {imdb-tt0248654}
+82 Peaky Blinders (2013) {imdb-tt2442560}
+83 Rome (2005) {imdb-tt0384766}
+84 Vinland Saga (2019) {imdb-tt10233448}
+85 Oz (1997) {imdb-tt0118421}
+86 Gullak (2019) {imdb-tt10530900}
+87 Steins;Gate (2011) {imdb-tt1910272}
+88 Panchayat (2020) {imdb-tt12004706}
+89 Dark (2017) {imdb-tt5753856}
+90 The Boys (2019) {imdb-tt1190634}
+91 Fleabag (2016) {imdb-tt5687612}
+92 Bleach: Thousand-Year Blood War (2022) {imdb-tt14986406}
+93 Battlestar Galactica (2004) {imdb-tt0407362}
+94 The Shield (2002) {imdb-tt0286486}
+95 The Simpsons (1989) {imdb-tt0096697}
+96 Downton Abbey (2010) {imdb-tt1606375}
+97 Arrested Development (2003) {imdb-tt0367279}
+98 House (2004) {imdb-tt0412142}
+99 Invincible (2021) {imdb-tt6741278}
+100 One Punch Man (2015) {imdb-tt4508902}
+101 Severance (2022) {imdb-tt11280740}
+102 Mad Men (2007) {imdb-tt0804503}
+103 Berserk (1997) {imdb-tt0318871}
+104 Peep Show (2003) {imdb-tt0387764}
+105 Stranger Things (2016) {imdb-tt4574334}
+106 Star Trek: The Next Generation (1987) {imdb-tt0092455}
+107 Sarabhai V/S Sarabhai (2004) {imdb-tt1518542}
+108 The Marvelous Mrs (2017) {imdb-tt5788792}
+109 The Adventures of Sherlock Holmes (1984) {imdb-tt0086661}
+110 Mahabharat (1988) {imdb-tt0158417}
+111 The Mandalorian (2019) {imdb-tt8111088}
+112 Justice League Unlimited (2004) {imdb-tt6025022}
+113 The Grand Tour (2016) {imdb-tt5712554}
+114 Friday Night Lights (2006) {imdb-tt0758745}
+115 Aspirants (2021) {imdb-tt14392248}
+116 Top Gear (2002) {imdb-tt1628033}
+117 The Thick of It (2005) {imdb-tt0459159}
+118 Behzat Ç: An Ankara Detective Story (2010) {imdb-tt1795096}
+119 Line of Duty (2012) {imdb-tt2303687}
+120 1883 (2021) {imdb-tt13991232}
+121 House of Cards (2013) {imdb-tt1856010}
+122 Naruto: Shippuden (2007) {imdb-tt0988824}
+123 How to with John Wilson (2020) {imdb-tt10801534}
+124 This Is Us (2016) {imdb-tt5555260}
+125 Monster (2004) {imdb-tt0434706}
+126 Ramayan (1987) {imdb-tt0268093}
+127 Atlanta (2016) {imdb-tt4288182}
+128 The Crown (2016) {imdb-tt4786824}
+129 Father Ted (1995) {imdb-tt0111958}
+130 Parks and Recreation (2009) {imdb-tt1266020}
+131 The X-Files (1993) {imdb-tt0106179}
+132 Deadwood (2004) {imdb-tt0348914}
+133 Dexter (2006) {imdb-tt0773262}
+134 Code Geass (2006) {imdb-tt0994314}
+135 Critical Role (2015) {imdb-tt4834232}
+136 Primal (2019) {imdb-tt10332508}
+137 It's a Sin (2021) {imdb-tt9140342}
+138 The Jinx: The Life and Deaths of Robert Durst (2015) {imdb-tt4299972}
+139 Daredevil (2015) {imdb-tt3322312}
+140 The Bridge (2011) {imdb-tt1733785}
+141 Blackadder II (1986) {imdb-tt0088484}
+142 Adventure Time (2010) {imdb-tt1305826}
+143 Lonesome Dove (1989) {imdb-tt0096639}
+144 Yeh Meri Family (2018) {imdb-tt8595766}
+145 Mindhunter (2017) {imdb-tt5290382}
+146 The Offer (2022) {imdb-tt13111040}
+147 The Return of Sherlock Holmes (1986) {imdb-tt0090509}
+148 Demon Slayer: Kimetsu no Yaiba (2019) {imdb-tt9335498}
+149 Haikyu!! (2014) {imdb-tt3398540}
+150 Mystery Science Theater 3000 (1988) {imdb-tt0094517}
+150 Gomorrah (2014) {imdb-tt2049116}
+152 Archer (2009) {imdb-tt1486217}
+153 Poirot (1989) {imdb-tt0094525}
+154 Blackadder the Third (1987) {imdb-tt0092324}
+155 Mr (1990) {imdb-tt0096657}
+156 Young Justice (2010) {imdb-tt1641384}
+157 Anne with an E (2017) {imdb-tt5421602}
+158 Pose (2018) {imdb-tt7562112}
+159 Dopesick (2021) {imdb-tt9174558}
+160 Yes Minister (1980) {imdb-tt0080306}
+161 Crash Landing on You (2019) {imdb-tt10850932}
+162 Yellowstone (2018) {imdb-tt4236770}
+163 QI (2003) {imdb-tt0380136}
+164 The Newsroom (2012) {imdb-tt1870479}
+165 Boardwalk Empire (2010) {imdb-tt0979432}
+166 Justified (2010) {imdb-tt1489428}
+167 The Bugs Bunny Show (1960) {imdb-tt0053488}
+168 The Bear (2022) {imdb-tt14452776}
+169 The Haunting of Hill House (2018) {imdb-tt6763664}
+170 Mr Inbetween (2018) {imdb-tt7472896}
+171 The Bureau (2015) {imdb-tt4063800}
+172 El Chavo del Ocho (1972) {imdb-tt0229889}
+173 Justice League (2001) {imdb-tt0275137}
+174 Making a Murderer (2015) {imdb-tt5189670}
+175 The Venture Bros (2003) {imdb-tt0417373}
+176 What We Do in the Shadows (2019) {imdb-tt7908628}
+177 Homicide: Life on the Street (1993) {imdb-tt0106028}
+178 The Queen's Gambit (2020) {imdb-tt10048342}
+179 Flight of the Conchords (2007) {imdb-tt0863046}
+180 Dragon Ball (1995) {imdb-tt0280249}
+181 Dragon Ball (1986) {imdb-tt0088509}
+182 Battlestar Galactica (2003) {imdb-tt0314979}
+183 Black Sun (2017) {imdb-tt6108262}
+184 Coupling (2000) {imdb-tt0237123}
+185 The Family Man (2019) {imdb-tt9544034}
+186 The Eric Andre Show (2012) {imdb-tt2244495}
+187 Impractical Jokers (2011) {imdb-tt2100976}
+188 Yes, Prime Minister (1986) {imdb-tt0086831}
+189 Samurai Champloo (2004) {imdb-tt0423731}
+190 Spaced (1999) {imdb-tt0187664}
+191 Rocket Boys (2022) {imdb-tt13868972}
+192 Endeavour (2012) {imdb-tt2701582}
+193 Mr (2015) {imdb-tt4158110}
+194 The IT Crowd (2006) {imdb-tt0487831}
+195 Ezel (2009) {imdb-tt1534360}
+196 Long Way Round (2004) {imdb-tt0403778}
+197 Heartstopper (2022) {imdb-tt10638036}
+198 I'm Alan Partridge (1997) {imdb-tt0129690}
+199 Formula 1: Drive to Survive (2019) {imdb-tt8289930}
+200 Louie (2010) {imdb-tt1492966}
+201 Mob Psycho 100 (2016) {imdb-tt5897304}
+202 Whose Line Is It Anyway? (1998) {imdb-tt0163507}
+203 Samurai Jack (2001) {imdb-tt0278238}
+205 The Office (2001) {imdb-tt0290978}
+205 Detectorists (2014) {imdb-tt4082744}
+206 Spartacus (2010) {imdb-tt1442449}
+207 Through the Wormhole (2010) {imdb-tt1513168}
+207 Jujutsu Kaisen (2020) {imdb-tt12343534}
+209 Sons of Anarchy (2008) {imdb-tt1124373}
+210 Letterkenny (2016) {imdb-tt4647692}
+211 Happy Valley (2014) {imdb-tt3428912}
+212 Neon Genesis Evangelion (1995) {imdb-tt0112159}
+213 Shameless (2011) {imdb-tt1586680}
+214 Doctor Who (2005) {imdb-tt0436992}
+215 Brass Eye (1997) {imdb-tt0118273}
+216 Twin Peaks (2017) {imdb-tt4093826}
+217 Trailer Park Boys (2001) {imdb-tt0290988}
+218 Skam (2015) {imdb-tt5288312}
+219 North & South (2004) {imdb-tt0417349}
+220 Spartacus: Gods of the Arena (2011) {imdb-tt1758429}
+221 Silicon Valley (2014) {imdb-tt2575988}
+222 Extraordinary Attorney Woo (2022) {imdb-tt20869502}
+223 The Rehearsal (2022) {imdb-tt10802170}
+224 Fullmetal Alchemist (2003) {imdb-tt0421357}
+225 Regular Show (2010) {imdb-tt1710308}
+226 Futurama (1999) {imdb-tt0149460}
+227 Schitt's Creek (2015) {imdb-tt3526078}
+228 From the Earth to the Moon (1998) {imdb-tt0120570}
+229 Rurouni Kenshin: Trust and Betrayal (1999) {imdb-tt0203082}
+230 Westworld (2016) {imdb-tt0475784}
+231 Hannibal (2013) {imdb-tt2243973}
+232 The Expanse (2015) {imdb-tt3230854}
+233 Umbre (2014) {imdb-tt4269716}
+234 Derry Girls (2018) {imdb-tt7120662}
+235 My Brilliant Friend (2018) {imdb-tt7278862}
+236 Tear Along the Dotted Line (2021) {imdb-tt15614372}
+237 Wentworth (2013) {imdb-tt2433738}
+238 Community (2009) {imdb-tt1439629}
+239 Chef's Table (2015) {imdb-tt4295140}
+240 Avrupa Yakasi (2004) {imdb-tt0421291}
+241 Gintama (2005) {imdb-tt0988818}
+242 Your Lie in April (2014) {imdb-tt3895150}
+243 Foyle's War (2002) {imdb-tt0310455}
+244 Alfred Hitchcock Presents (1955) {imdb-tt0047708}
+245 Generation Kill (2008) {imdb-tt0995832}
+246 Cobra Kai (2018) {imdb-tt7221388}
+247 Southland (2009) {imdb-tt1299368}
+248 The Great British Baking Show (2010) {imdb-tt1877368}
+249 The Night Of (2016) {imdb-tt2401256}
+250 Alchemy of Souls (2022) {imdb-tt20859920}

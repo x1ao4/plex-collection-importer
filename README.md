@@ -99,9 +99,50 @@ https://trakt.tv/users/callingjupiter/lists/best-movies-of-2023?sort=added,desc
 片单需要保存为 `.txt` 格式，文件名即为生成合集的名称。
 
 ## 工具
+除了主脚本，我还为大家准备了一些小工具，用于单独获取、转换和编辑片单。
 - get-douban-list
+
+  此脚本是用来获取豆瓣片单的，运行脚本后提供片单 ID（并选择片单类型）即可将片单按指定的格式保存为同名的 `.txt` 片单，片单语言为中文。（在脚本内填写 `tmdb_api_key` 可为片单增加 TMDB ID 信息）
 - get-imdb-list
+  
+  此脚本是用来获取 IMDb 片单的，运行脚本后提供片单 ID 即可将片单按指定的格式保存为同名的 `.txt` 片单，片单语言为英文。（包含 IMDb ID 信息）
 - get-trakt-list
+  
+  此脚本是用来获取 Trakt 片单的，运行脚本后提供片单用户名和片单 ID（并选择片单类型）即可将片单按指定的格式保存为同名的 `.txt` 片单，片单语言为英文。（在脚本内填写 `tmdb_api_key` 可为片单增加 TMDB ID 信息）
 - top-lists
+  - douban-top-250
+  
+    此脚本是用来获取/更新「[豆瓣电影 Top 250](https://movie.douban.com/top250)」片单的，直接运行即可。（在脚本内填写 `tmdb_api_key` 可为片单增加 TMDB ID 信息）
+  - imdb-top-250-movies
+  
+    此脚本是用来获取/更新「[IMDb Top 250 Movies](https://www.imdb.com/chart/top/)」片单的，直接运行即可。（包含 IMDb ID 信息）
+  - imdb-top-250-tv-shows
+  
+    此脚本是用来获取/更新「[IMDb Top 250 TV Shows](https://www.imdb.com/chart/toptv/)」片单的，直接运行即可。（包含 IMDb ID 信息）
+  - tspdt-1000-greatest-films
+  
+    此脚本是用来获取/更新「[TSPDT 1,000 Greatest Films](https://www.theyshootpictures.com/gf1000_all1000films_table.php)」片单的，直接运行即可。（在脚本内填写 `tmdb_api_key` 可为片单增加 TMDB ID 信息）
 - add-tmdb-id
+
+  此脚本是用来为没有平台 ID 信息的片单补充 TMDB ID 的，需要在脚本内填写您的 TMDB API 密钥（`tmdb_api_key`），并设置片单的类型（`media_type`）、匹配模式（`match_mode`）和语言（`language`）。
+  - 片单的类型
+    - movie：电影
+    - tv：电视
+  - 匹配模式
+    - exact：精确匹配，只有当片名与年份完全一致时才算匹配成功，有可能导致匹配不到结果。
+    - fuzzy：模糊匹配，将返回结果中排在第一位（相关度最高）的项目作为匹配结果，有可能匹配到错误的结果。
+  - 片单的语言
+    - language：请根据 [IETF 语言标签](https://www.venea.net/web/culture_code) 填写片单的语言代码，例如 'zh-CN' 或 'en-US'。
 - translate-title
+
+  此脚本是用来转换片单语言的，脚本会在 TMDB 上匹配片单内的影片，并将片名替换为 TMDB 上指定语言的译名，需要在脚本内填写您的 TMDB API 密钥（`tmdb_api_key`），并设置片单的类型（`media_type`）、匹配模式（`match_mode`）、原始语言（`input_language`）和输出语言（`output_language`）。
+  - 片单的类型
+    - movie：电影
+    - tv：电视
+  - 匹配模式
+    - exact：精确匹配，只有当片名与年份完全一致时才算匹配成功，有可能导致匹配不到结果。
+    - fuzzy：模糊匹配，将返回结果中排在第一位（相关度最高）的项目作为匹配结果，有可能匹配到错误的结果。
+  - 原始片单的语言
+    - input_language：请根据 [IETF 语言标签](https://www.venea.net/web/culture_code) 填写原始片单的语言代码，例如 'zh-CN' 或 'en-US'。
+  - 输出片单的语言
+    - output_language：请根据 [IETF 语言标签](https://www.venea.net/web/culture_code) 填写输出片单的语言代码，例如 'zh-CN' 或 'en-US'。

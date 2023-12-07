@@ -96,4 +96,12 @@ https://trakt.tv/users/callingjupiter/lists/best-movies-of-2023?sort=added,desc
 4 泰坦尼克号 (1997)
 5 这个杀手不太冷 (1994) {tvdb-234}
 ```
-片单需要保存为 `.txt` 格式，片单文件名即为生成的合集名称。
+片单需要保存为 `.txt` 格式，文件名即为生成合集的名称。
+
+## 工具
+- get-douban-list
+- get-imdb-list
+- get-trakt-list
+- top-lists
+- add-tmdb-id
+- translate-title

@@ -124,7 +124,7 @@ https://trakt.tv/users/callingjupiter/lists/best-movies-of-2023?sort=added,desc
     此脚本是用来获取/更新「[TSPDT 1,000 Greatest Films](https://www.theyshootpictures.com/gf1000_all1000films_table.php)」片单的，直接运行即可。（在脚本内填写 `tmdb_api_key` 可为片单增加 TMDB ID 信息）
 - add-tmdb-id
 
-  此脚本是用来为没有平台 ID 信息的片单补充 TMDB ID 的，需要在脚本内填写您的 TMDB API 密钥（`tmdb_api_key`），并设置片单的类型（`media_type`）、匹配模式（`match_mode`）和语言（`language`）。
+  此脚本是用来为没有平台 ID 信息的片单补充 TMDB ID 的，需要在脚本内填写您的 TMDB API 密钥（`tmdb_api_key`），并设置片单的类型（`media_type`）、匹配模式（`match_mode`）和语言（`language`）。请将需要处理的片单放在脚本所在文件夹内，运行脚本后新的片单会保存在文件夹内。
   - 片单的类型
     - movie：电影
     - tv：电视
@@ -135,7 +135,7 @@ https://trakt.tv/users/callingjupiter/lists/best-movies-of-2023?sort=added,desc
     - language：请根据 [IETF 语言标签](https://www.venea.net/web/culture_code) 填写片单的语言代码，例如 'zh-CN' 或 'en-US'。
 - translate-title
 
-  此脚本是用来转换片单语言的，脚本会在 TMDB 上匹配片单内的影片，并将片名替换为 TMDB 上指定语言的译名，需要在脚本内填写您的 TMDB API 密钥（`tmdb_api_key`），并设置片单的类型（`media_type`）、匹配模式（`match_mode`）、原始语言（`input_language`）和输出语言（`output_language`）。
+  此脚本是用来转换片单语言的，脚本会在 TMDB 上匹配片单内的影片，并将片名替换为 TMDB 上指定语言的译名，需要在脚本内填写您的 TMDB API 密钥（`tmdb_api_key`），并设置片单的类型（`media_type`）、匹配模式（`match_mode`）、原始语言（`input_language`）和输出语言（`output_language`）。请将需要处理的片单放在脚本所在文件夹内，运行脚本后新的片单会保存在文件夹内。
   - 片单的类型
     - movie：电影
     - tv：电视
@@ -146,3 +146,17 @@ https://trakt.tv/users/callingjupiter/lists/best-movies-of-2023?sort=added,desc
     - input_language：请根据 [IETF 语言标签](https://www.venea.net/web/culture_code) 填写原始片单的语言代码，例如 'zh-CN' 或 'en-US'。
   - 输出片单的语言
     - output_language：请根据 [IETF 语言标签](https://www.venea.net/web/culture_code) 填写输出片单的语言代码，例如 'zh-CN' 或 'en-US'。
+
+## 注意事项
+- 请确保您提供了正确的 Plex 服务器地址和 X-Plex-Token。
+- 请确保运行脚本的设备可以连接到您的服务器。
+- 由于 TMDB API 有速率限制，建议在脚本运行过程中不要进行其他与 TMDB API 相关的操作，以免触发速率限制。
+- 部分地区可能会由于网络原因造成 TMDB API 调用失败，无法运行脚本，请确保您的网络环境可以正常调用 TMDB API。
+- `collections` 文件夹内包含 4 个预置片单，直接运行脚本将直接导入这 4 个片单，若不需要请删除文件或将他们移走。
+- 请不要删除 `collections` 和 `downloads` 文件夹。
+
+## 已知问题
+- 没有提供匹配模式选择功能的脚本均采用了模糊匹配的方式在 TMDB 进行匹配，若您使用了 TMDB 匹配的相关功能，在某些情况下可能会出现匹配错误的问题。
+- 主脚本会优先使用片单中的片名和年份与库中影片进行匹配，若片单语言与库的语言不一致，片单中又不包含平台 ID 信息，将无法匹配任何影片。
+- 只有当使用片单中的片名和年份与库中影片匹配失败时，脚本才会使用平台 ID （若存在）进行二次匹配。
+- 若网络片单名称中包含 `:*?"<>|/` 等符号，这些符号将在合集或片单文件名中被删除。

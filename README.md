@@ -3,7 +3,7 @@
 
 ## 运行条件
 - 安装了 Python 3.6 或更高版本。
-- 安装了必要的第三方库：plexapi。
+- 安装了必要的第三方库：plexapi。（可以通过命令 `pip install plexapi` 安装）
 - 有可用的 TMDB API。（TMDB API 可在 TMDB 账号设置中免费申请，此项为可选项）
 
 ## 配置文件
@@ -132,7 +132,7 @@ https://trakt.tv/users/callingjupiter/lists/best-movies-of-2023?sort=added,desc
     - exact：精确匹配，只有当片名与年份完全一致时才算匹配成功，有可能导致匹配不到结果。
     - fuzzy：模糊匹配，将返回结果中排在第一位（相关度最高）的项目作为匹配结果，有可能匹配到错误的结果。
   - 片单的语言
-    - language：请根据 [IETF 语言标签](https://www.venea.net/web/culture_code) 填写片单的语言代码，例如 'zh-CN' 或 'en-US'。
+    - language：请根据「[IETF 语言标签](https://www.venea.net/web/culture_code)」填写片单的语言代码，例如 'zh-CN' 或 'en-US'。
 - translate-title
 
   此脚本是用来转换片单语言的，脚本会在 TMDB 上匹配片单内的影片，并将片名替换为 TMDB 上指定语言的译名，需要在脚本内填写您的 TMDB API 密钥（`tmdb_api_key`），并设置片单的类型（`media_type`）、匹配模式（`match_mode`）、原始语言（`input_language`）和输出语言（`output_language`）。请将需要处理的片单放在脚本所在文件夹内，运行脚本后新的片单会保存在文件夹内。
@@ -143,9 +143,9 @@ https://trakt.tv/users/callingjupiter/lists/best-movies-of-2023?sort=added,desc
     - exact：精确匹配，只有当片名与年份完全一致时才算匹配成功，有可能导致匹配不到结果。
     - fuzzy：模糊匹配，将返回结果中排在第一位（相关度最高）的项目作为匹配结果，有可能匹配到错误的结果。
   - 原始片单的语言
-    - input_language：请根据 [IETF 语言标签](https://www.venea.net/web/culture_code) 填写原始片单的语言代码，例如 'zh-CN' 或 'en-US'。
+    - input_language：请根据「IETF 语言标签」填写原始片单的语言代码，例如 'zh-CN' 或 'en-US'。
   - 输出片单的语言
-    - output_language：请根据 [IETF 语言标签](https://www.venea.net/web/culture_code) 填写输出片单的语言代码，例如 'zh-CN' 或 'en-US'。
+    - output_language：请根据「IETF 语言标签」填写输出片单的语言代码，例如 'zh-CN' 或 'en-US'。
 
 ## 注意事项
 - 请确保您提供了正确的 Plex 服务器地址和 X-Plex-Token。
@@ -160,3 +160,4 @@ https://trakt.tv/users/callingjupiter/lists/best-movies-of-2023?sort=added,desc
 - 主脚本会优先使用片单中的片名和年份与库中影片进行匹配，若片单语言与库的语言不一致，片单中又不包含平台 ID 信息，将无法匹配任何影片。
 - 只有当使用片单中的片名和年份与库中影片匹配失败时，脚本才会使用平台 ID （若存在）进行二次匹配。
 - 若网络片单名称中包含 `:*?"<>|/` 等符号，这些符号将在合集或片单文件名中被删除。
+<br>

@@ -16,7 +16,7 @@ tmdb_api_key =
 ```
 
 ## 导入网络片单
-当 `collections` 文件夹为空文件夹时，脚本会自动启用**导入网络片单模式**，请运行 `plex-collection-importer.py` 脚本，根据提示进行操作，示例如下：
+当 `collections` 文件夹为空文件夹时，脚本会自动启用导入网络片单模式，请运行 `plex-collection-importer.py` 脚本，根据提示进行操作，示例如下：
 ```
 以下是您的Plex服务器上的所有影视库：
 
@@ -65,7 +65,7 @@ https://trakt.tv/users/callingjupiter/lists/best-movies-of-2023?sort=added,desc
 ```
 
 ## 导入本地片单
-当 `collections` 文件夹内包含 `.txt` 格式的片单时，脚本会自动启用**导入本地片单模式**，请运行 `plex-collection-importer.py` 脚本，根据提示进行操作，示例如下：
+当 `collections` 文件夹内包含 `.txt` 格式的片单时，脚本会自动启用导入本地片单模式，请运行 `plex-collection-importer.py` 脚本，根据提示进行操作，示例如下：
 ```
 以下是您的Plex服务器上的所有影视库：
 
@@ -152,7 +152,7 @@ https://trakt.tv/users/callingjupiter/lists/best-movies-of-2023?sort=added,desc
 - 请确保运行脚本的设备可以连接到您的服务器。
 - 由于 TMDB API 有速率限制，建议在脚本运行过程中不要进行其他与 TMDB API 相关的操作，以免触发速率限制。
 - 部分地区可能会由于网络原因造成 TMDB API 调用失败，无法运行脚本，请确保您的网络环境可以正常调用 TMDB API。
-- `collections` 文件夹内包含 4 个预置片单，直接运行脚本将直接导入这 4 个片单，若不需要请删除文件或将他们移走。
+- `collections` 文件夹内包含 4 个预置片单，直接运行脚本将直接导入这 4 个片单，若不需要请删除文件或将它们移走。
 - 请不要删除 `collections` 和 `downloads` 文件夹。
 
 ## 已知问题
@@ -162,3 +162,167 @@ https://trakt.tv/users/callingjupiter/lists/best-movies-of-2023?sort=added,desc
 - 若网络片单名称中包含 `:*?"<>|/` 等符号，这些符号将在合集或片单文件名中被删除。
 - 若您的库中存在大量挂载的网盘文件，有可能导致脚本运行速度变慢或连接超时，请推出挂载再运行脚本，之后再重新挂载网盘即可。
 <br>
+
+# plex-collection-importer
+The plex-collection-importer is a tool that allows you to import movie or TV show lists from Douban, IMDb, Trakt, or local lists into your Plex media library. The script fetches movie (TV show) data from the specified platforms or local files, matches them with the selected Plex library, and adds the successfully matched movies (TV shows) to a collection with the same name as the list.
+
+## Requirements
+- Python 3.6 or higher installed.
+- Required third-party library: plexapi (install with `pip install plexapi`).
+- Have an available TMDb API (TMDb API can be applied for free in TMDb account settings, optional).
+
+## Config
+Before running the script, open the `config.ini` file, and fill in your Plex server address (`address`) and [X-Plex-Token](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/) (`token`). If you want to add TMDB ID information during list retrieval (useful for resolving language or translation differences), provide your TMDB API key (`tmdb_api_key`); leave it blank if not needed.
+```
+[server]
+address = http://127.0.0.1:32400
+token = 
+tmdb_api_key = 
+```
+
+## Importing from Online Lists
+When the `collections` folder is empty, the script will automatically enable online list import mode. Run the `plex-collection-importer.py` script and follow the prompts. Here's an example:
+```
+以下是您的Plex服务器上的所有影视库：
+
+1. 电影
+2. 动漫
+3. 电视剧
+4. 综艺
+
+请输入您想选择的库的编号（多个编号请用空格隔开）：1
+
+请输入片单的ID：39639105
+请输入片单的类型（movie或tv）：movie
+
+正在获取片单：小成本大创意
+
+1 定时拍摄 (2014) {tmdb-273271}
+2 爱的就是你 (2014) {tmdb-242090}
+3 双重人格 (2013) {tmdb-146015}
+4 追随 (1998) {tmdb-11660}
+5 彗星来的那一夜 (2013) {tmdb-220289}
+6 初始者 (2004) {tmdb-14337}
+7 狗镇 (2003) {tmdb-553}
+8 记忆碎片 (2000) {tmdb-77}
+9 K星异客 (2001) {tmdb-167}
+10 机械姬 (2014) {tmdb-264660}
+11 摄影机不要停！ (2017) {tmdb-513434}
+
+正在匹配库：电影
+
+"双重人格 (2014)" 已被添加到 "小成本大创意" 合集中
+"彗星来的那一夜 (2014)" 已被添加到 "小成本大创意" 合集中
+"时光穿梭 (2015)" 已被添加到 "小成本大创意" 合集中
+"机械姬 (2015)" 已被添加到 "小成本大创意" 合集中
+"狗镇 (2003)" 已被添加到 "小成本大创意" 合集中
+```
+The script supports importing lists from Douban, IMDb, and Trakt. Obtain the list ID from the respective platforms as shown below:
+```
+Douban list ID is a pure number, for example, the ID in the following URL is 39639105
+https://www.douban.com/doulist/39639105/
+
+IMDb list ID starts with ls, for example, the ID in the following URL is ls527593715
+https://www.imdb.com/list/ls527593715/
+
+Trakt list ID contains both username and ID, separated by a space. For example, the ID in the following URL is callingjupiter best-movies-of-2023
+https://trakt.tv/users/callingjupiter/lists/best-movies-of-2023?sort=added,desc
+```
+
+## Importing from Local Lists
+When the `collections` folder contains `.txt` format lists, the script will automatically enable local list import mode. Run the `plex-collection-importer.py` script and follow the prompts. Here's an example:
+```
+以下是您的Plex服务器上的所有影视库：
+
+1. 电影
+2. 动漫
+3. 电视剧
+4. 综艺
+
+请输入您想选择的库的编号（多个编号请用空格隔开）：1
+
+正在读取片单...
+
+豆瓣电影 Top 250
+
+正在匹配库：电影
+
+"疯狂动物城 (2016)" 已被添加到 "豆瓣电影 Top 250" 合集中
+"海上钢琴师 (1998)" 已被添加到 "豆瓣电影 Top 250" 合集中
+"美丽人生 (1997)" 已被添加到 "豆瓣电影 Top 250" 合集中
+"泰坦尼克号 (1997)" 已被添加到 "豆瓣电影 Top 250" 合集中
+"肖申克的救赎 (1994)" 已被添加到 "豆瓣电影 Top 250" 合集中
+```
+If the `collections` folder contains multiple list files, the script will process each list sequentially. Lists should follow the format `Number Title (Year) {platform-ID}`, where the platform ID is optional but useful for resolving language or translation differences. Here's an example:
+```
+1 The Shawshank Redemption (1994) {tmdb-278}
+2 Farewell My Concubine (1993) {tmdb-10997}
+3 Forrest Gump (1994) {imdb-tt0109830}
+4 Titanic (1997)
+5 Léon: The Professional (1994) {tvdb-234}
+```
+Save lists in `.txt` format, and the filename becomes the collection name.
+
+## Tools
+In addition to the main script, some auxiliary tools are available for specific tasks:
+- get-douban-list
+
+  Fetches Douban lists and saves them as `.txt` files in the specified format. Run the script, provide the list ID (and type), and it will generate a list file. (Adding TMDB ID is optional; include `tmdb_api_key` in the script)
+- get-imdb-list
+  
+  Fetches IMDb lists and saves them as `.txt` files in the specified format. Run the script, provide the list ID, and it will generate a list file. (Includes IMDb ID)
+- get-trakt-list
+  
+  Fetches Trakt lists and saves them as `.txt` files in the specified format. Run the script, provide the username and list ID (and type), and it will generate a list file. (Adding TMDB ID is optional; include `tmdb_api_key` in the script)
+- top-lists
+  - douban-top-250
+  
+    Fetches or updates the "[DOUBAN Top 250 Movies](https://movie.douban.com/top250)" list. Run the script to update. (Adding TMDB ID is optional; include `tmdb_api_key` in the script)
+  - imdb-top-250-movies
+  
+    Fetches or updates the "[IMDb Top 250 Movies](https://www.imdb.com/chart/top/)" list. Run the script to update. (Includes IMDb ID)
+  - imdb-top-250-tv-shows
+  
+    Fetches or updates the "[IMDb Top 250 TV Shows](https://www.imdb.com/chart/toptv/)" list. Run the script to update. (Includes IMDb ID)
+  - tspdt-1000-greatest-films
+  
+    Fetches or updates the "[TSPDT 1,000 Greatest Films](https://www.theyshootpictures.com/gf1000_all1000films_table.php)" list. Run the script to update. (Adding TMDB ID is optional; include `tmdb_api_key` in the script)
+- add-tmdb-id
+
+  Adds TMDB ID to lists without platform ID information. Configure the script with your TMDB API key (`tmdb_api_key`), list type (`media_type`), matching mode (`match_mode`), and language (`language`). Place lists in the script folder, run it, and the new list will be saved in the same folder.
+  - List type
+    - movie: Movies
+    - tv: TV Shows
+  - Matching mode
+    - exact: Exact matching, only considered a successful match when both the title and the year are identical, which may result in no matches if there is any deviation.
+    - fuzzy: Fuzzy matching, returns the top-ranked item in the results (highest relevance) as the match, which may lead to incorrect matches.
+  - List language
+    - language: Use the "[IETF Language Tags](https://www.venea.net/web/culture_code)" code, such as 'zh-CN' or 'en-US'.
+- translate-title
+
+  Translates list language. The script matches movie names on TMDB and replaces them with the translated title in the specified language. Configure the script with your TMDB API key (`tmdb_api_key`), list type (`media_type`), matching mode (`match_mode`), original language (`input_language`), and output language (`output_language`). Place lists in the script folder, run it, and the new list will be saved in the same folder.
+  - List type
+    - movie: Movies
+    - tv: TV Shows
+  - Matching mode
+    - exact: Exact matching, only considered a successful match when both the title and the year are identical, which may result in no matches if there is any deviation.
+    - fuzzy: Fuzzy matching, returns the top-ranked item in the results (highest relevance) as the match, which may lead to incorrect matches.
+  - Original list language
+    - input_language: Use the "IETF Language Tags" code, such as 'zh-CN' or 'en-US'.
+  - Output list language
+    - output_language: Use the "IETF Language Tags" code, such as 'zh-CN' or 'en-US'.
+
+## Notes
+- Make sure you've provided the correct Plex server address and X-Plex-Token.
+- Make sure the device running the script is connected to your Plex server.
+- Due to rate limits on the TMDb API, it is recommended not to perform other TMDb API-related operations during the script execution to avoid rate limit triggers.
+- Some regions may experience TMDb API call failures due to network reasons. Ensure that your network environment can make TMDb API calls.
+- The `collections` folder contains 4 pre-set lists; running the script will import these lists. Remove or move them if not needed.
+- Do not delete the `collections` and `downloads` folders.
+
+## Known Issues
+- Scripts without a matching mode selection option use fuzzy matching on TMDB, which may result in incorrect matches in some cases.
+- The main script prioritizes matching with the title and year in the list. If the list language differs from the library language and the list doesn't include a platform ID, no matches will occur.
+- Platform ID is only used for a secondary match when the primary match with the title and year fails.
+- If the online list name contains `:*?"<>|/` symbols, these symbols will be removed in the collection or list file name.
+- If your library contains a large number of mounted cloud files, it might slow down the script or cause connection timeouts. Quit mounting, run the script, and then remount the cloud to resolve.

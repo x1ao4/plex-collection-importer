@@ -183,39 +183,39 @@ tmdb_api_key =
 ## Importing from Online Lists
 When the `collections` folder is empty, the script will automatically enable online list import mode. Run the `plex-collection-importer.py` script and follow the prompts. Here's an example:
 ```
-以下是您的Plex服务器上的所有影视库：
+Here are all the MOVIE and TV libraries on your Plex server: 
 
-1. 电影
-2. 动漫
-3. 电视剧
-4. 综艺
+1. Movies
+2. Anime
+3. TV Shows
+4. Variety Shows
 
-请输入您想选择的库的编号（多个编号请用空格隔开）：1
+Please enter the number of the library you want to select (separate multiple numbers with spaces): 1
 
-请输入片单的ID：39639105
-请输入片单的类型（movie或tv）：movie
+Please enter the ID of the list: x1ao4 low-budget-big-ideas
+Please enter the type of the list (movie or tv): movie
 
-正在获取片单：小成本大创意
+Fetching list: Low Budget, Big Ideas
 
-1 定时拍摄 (2014) {tmdb-273271}
-2 爱的就是你 (2014) {tmdb-242090}
-3 双重人格 (2013) {tmdb-146015}
-4 追随 (1998) {tmdb-11660}
-5 彗星来的那一夜 (2013) {tmdb-220289}
-6 初始者 (2004) {tmdb-14337}
-7 狗镇 (2003) {tmdb-553}
-8 记忆碎片 (2000) {tmdb-77}
-9 K星异客 (2001) {tmdb-167}
-10 机械姬 (2014) {tmdb-264660}
-11 摄影机不要停！ (2017) {tmdb-513434}
+1 Time Lapse (2014) {tmdb-273271}
+2 The One I Love (2014) {tmdb-242090}
+3 The Double (2014) {tmdb-146015}
+4 Following (1999) {tmdb-11660}
+5 Coherence (2014) {tmdb-220289}
+6 Primer (2004) {tmdb-14337}
+7 Dogville (2003) {tmdb-553}
+8 Memento (2001) {tmdb-77}
+9 K-PAX (2001) {tmdb-167}
+10 Ex Machina (2015) {tmdb-264660}
+11 One Cut of the Dead (2017) {tmdb-513434}
 
-正在匹配库：电影
+Matching library: Movies
 
-"双重人格 (2014)" 已被添加到 "小成本大创意" 合集中
-"彗星来的那一夜 (2014)" 已被添加到 "小成本大创意" 合集中
-"时光穿梭 (2015)" 已被添加到 "小成本大创意" 合集中
-"机械姬 (2015)" 已被添加到 "小成本大创意" 合集中
-"狗镇 (2003)" 已被添加到 "小成本大创意" 合集中
+"Coherence (2014)" has been added to the "Low Budget, Big Ideas" collection
+"Dogville (2003)" has been added to the "Low Budget, Big Ideas" collection
+"Following (1999)" has been added to the "Low Budget, Big Ideas" collection
+"Memento (2000)" has been added to the "Low Budget, Big Ideas" collection
+"The One I Love (2014)" has been added to the "Low Budget, Big Ideas" collection
 ```
 The script supports importing lists from Douban, IMDb, and Trakt. Obtain the list ID from the respective platforms as shown below:
 ```
@@ -232,26 +232,26 @@ https://trakt.tv/users/callingjupiter/lists/best-movies-of-2023?sort=added,desc
 ## Importing from Local Lists
 When the `collections` folder contains `.txt` format lists, the script will automatically enable local list import mode. Run the `plex-collection-importer.py` script and follow the prompts. Here's an example:
 ```
-以下是您的Plex服务器上的所有影视库：
+Here are all the MOVIE and TV libraries on your Plex server: 
 
-1. 电影
-2. 动漫
-3. 电视剧
-4. 综艺
+1. Movies
+2. Anime
+3. TV Shows
+4. Variety Shows
 
-请输入您想选择的库的编号（多个编号请用空格隔开）：1
+Please enter the number of the library you want to select (separate multiple numbers with spaces): 1
 
-正在读取片单...
+Reading the list...
 
-豆瓣电影 Top 250
+DOUBAN Top 250 Movies
 
-正在匹配库：电影
+Matching library: Movies
 
-"疯狂动物城 (2016)" 已被添加到 "豆瓣电影 Top 250" 合集中
-"海上钢琴师 (1998)" 已被添加到 "豆瓣电影 Top 250" 合集中
-"美丽人生 (1997)" 已被添加到 "豆瓣电影 Top 250" 合集中
-"泰坦尼克号 (1997)" 已被添加到 "豆瓣电影 Top 250" 合集中
-"肖申克的救赎 (1994)" 已被添加到 "豆瓣电影 Top 250" 合集中
+"The Shawshank Redemption (1994)" has been added to the "DOUBAN Top 250 Movies" collection
+"Spider-Man: Into the Spider-Verse (2018)" has been added to the "DOUBAN Top 250 Movies" collection
+"Titanic (1997)" has been added to the "DOUBAN Top 250 Movies" collection
+"The Truman Show (1998)" has been added to the "DOUBAN Top 250 Movies" collection
+"Zootopia (2016)" has been added to the "DOUBAN Top 250 Movies" collection
 ```
 If the `collections` folder contains multiple list files, the script will process each list sequentially. Lists should follow the format `Number Title (Year) {platform-ID}`, where the platform ID is optional but useful for resolving language or translation differences. Here's an example:
 ```

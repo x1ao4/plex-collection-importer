@@ -315,8 +315,8 @@ In addition to the main script, some auxiliary tools are available for specific 
 ## Notes
 - Make sure you've provided the correct Plex server address and X-Plex-Token.
 - Make sure the device running the script is connected to your Plex server.
-- Due to rate limits on the TMDb API, it is recommended not to perform other TMDb API-related operations during the script execution to avoid rate limit triggers.
-- Some regions may experience TMDb API call failures due to network reasons. Ensure that your network environment can make TMDb API calls.
+- Due to rate limits on the TMDB API, it is recommended not to perform other TMDB API-related operations during the script execution to avoid rate limit triggers.
+- Some regions may experience TMDB API call failures due to network reasons. Ensure that your network environment can make TMDB API calls.
 - The `collections` folder contains 4 pre-set lists; running the script will import these lists. Remove or move them if not needed.
 - Do not delete the `collections` and `downloads` folders.
 

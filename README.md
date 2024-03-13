@@ -3,7 +3,7 @@
 
 ## 运行条件
 - 安装了 Python 3.6 或更高版本。
-- 安装了必要的第三方库：plexapi 和 BeautifulSoup。（可以通过 `pip install plexapi beautifulsoup4` 安装）
+- 安装了必要的第三方库：plexapi、BeautifulSoup。（可以通过 `pip3 install plexapi beautifulsoup4` 安装）
 - 有可用的 TMDB API。（TMDB API 可在 TMDB 账号设置中免费申请，此项为可选项）
 
 ## 配置文件
@@ -167,8 +167,8 @@ https://trakt.tv/users/callingjupiter/lists/best-movies-of-2023?sort=added,desc
 The plex-collection-importer is a tool that allows you to import movie or TV show lists from Douban, IMDb, Trakt, or local lists into your Plex media library. The script fetches movie (TV show) data from the specified platforms or local files, matches them with the selected Plex library, and adds the successfully matched movies (TV shows) to a collection with the same name as the list.
 
 ## Requirements
-- Python 3.6 or higher installed.
-- Required third-party library: plexapi and BeautifulSoup (install with `pip install plexapi beautifulsoup4`).
+- Installed Python 3.6 or higher.
+- Installed required third-party libraries: plexapi, BeautifulSoup (install with `pip3 install plexapi beautifulsoup4`).
 - Have an available TMDb API (TMDb API can be applied for free in TMDb account settings, optional).
 
 ## Config

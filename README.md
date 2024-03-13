@@ -168,7 +168,7 @@ The plex-collection-importer is a tool that allows you to import movie or TV sho
 
 ## Requirements
 - Installed Python 3.6 or higher.
-- Installed required third-party libraries: plexapi, BeautifulSoup (install with `pip3 install plexapi beautifulsoup4`).
+- Installed required third-party libraries: plexapi, BeautifulSoup. (install with `pip3 install plexapi beautifulsoup4`)
 - Have an available TMDb API (TMDb API can be applied for free in TMDb account settings, optional).
 
 ## Config
